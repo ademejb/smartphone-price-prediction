@@ -1,0 +1,977 @@
+brand_name,model,price_eur,gamme,5G,os,ram_capacity,internal_memory,processor_brand,processor_speed,battery_capacity,screen_size,refresh_rate
+apple,Apple iPhone 11,433,Milieu de gamme,Non,ios,4,64,bionic,2.65,3110.0,6.1,60
+apple,Apple iPhone 11 (128GB),522,Haut de gamme,Non,ios,4,128,bionic,2.65,3110.0,6.1,60
+apple,Apple iPhone 11 Pro Max,1221,Haut de gamme,Non,ios,4,64,bionic,2.65,3500.0,6.5,60
+apple,Apple iPhone 12,578,Haut de gamme,Oui,ios,4,64,bionic,3.1,5000.0,6.1,60
+apple,Apple iPhone 12 (128GB),622,Haut de gamme,Oui,ios,4,128,bionic,3.1,5000.0,6.1,60
+apple,Apple iPhone 12 (256GB),756,Haut de gamme,Oui,ios,4,256,bionic,3.1,5000.0,6.1,60
+apple,Apple iPhone 12 Mini,456,Milieu de gamme,Oui,ios,4,64,bionic,3.1,5000.0,5.4,60
+apple,Apple iPhone 12 Mini (128GB),511,Haut de gamme,Oui,ios,4,128,bionic,3.1,5000.0,5.4,60
+apple,Apple iPhone 12 Mini (256GB),622,Haut de gamme,Oui,ios,4,256,bionic,3.1,5000.0,5.4,60
+apple,Apple iPhone 12 Pro (256GB),1332,Haut de gamme,Oui,ios,6,256,bionic,3.1,5000.0,6.1,60
+apple,Apple iPhone 12 Pro (512GB),1554,Haut de gamme,Oui,ios,6,512,bionic,3.1,5000.0,6.1,60
+apple,Apple iPhone 13,700,Haut de gamme,Oui,ios,4,128,bionic,3.22,3240.0,6.1,60
+apple,Apple iPhone 13 (256GB),811,Haut de gamme,Oui,ios,4,256,bionic,3.22,3240.0,6.1,60
+apple,Apple iPhone 13 (512GB),1022,Haut de gamme,Oui,ios,4,512,bionic,3.22,3240.0,6.1,60
+apple,Apple iPhone 13 Mini,721,Haut de gamme,Oui,ios,4,128,bionic,3.22,2438.0,5.4,60
+apple,Apple iPhone 13 Pro,1332,Haut de gamme,Oui,ios,6,128,bionic,3.22,3095.0,6.1,120
+apple,Apple iPhone 13 Pro (1TB),1643,Haut de gamme,Oui,ios,6,1024,bionic,3.22,3095.0,6.1,120
+apple,Apple iPhone 13 Pro (256GB),1443,Haut de gamme,Oui,ios,6,256,bionic,3.22,3095.0,6.1,120
+apple,Apple iPhone 13 Pro Max,1443,Haut de gamme,Oui,ios,6,128,bionic,3.22,4352.0,6.7,120
+apple,Apple iPhone 13 Pro Max (1TB),1999,Haut de gamme,Oui,ios,6,1024,bionic,3.22,4352.0,6.7,120
+apple,Apple iPhone 13 Pro Max (256GB),1554,Haut de gamme,Oui,ios,6,256,bionic,3.22,4352.0,6.7,120
+apple,Apple iPhone 14,733,Haut de gamme,Oui,ios,6,128,bionic,3.22,3279.0,6.1,60
+apple,Apple iPhone 14 (256GB),844,Haut de gamme,Oui,ios,6,256,bionic,3.22,3279.0,6.1,60
+apple,Apple iPhone 14 (512GB),1067,Haut de gamme,Oui,ios,6,512,bionic,3.22,3279.0,6.1,60
+apple,Apple iPhone 14 Mini,778,Haut de gamme,Non,ios,6,128,bionic,2.3,3500.0,5.42,60
+apple,Apple iPhone 14 Plus,833,Haut de gamme,Oui,ios,6,128,bionic,3.22,4325.0,6.7,60
+apple,Apple iPhone 14 Plus (256GB),944,Haut de gamme,Oui,ios,6,256,bionic,3.22,4325.0,6.7,60
+apple,Apple iPhone 14 Plus (512GB),1167,Haut de gamme,Oui,ios,6,512,bionic,3.22,4325.0,6.7,60
+apple,Apple iPhone 14 Pro,1333,Haut de gamme,Oui,ios,6,128,bionic,2.3,3200.0,6.1,120
+apple,Apple iPhone 14 Pro (1TB),1922,Haut de gamme,Oui,ios,6,1024,bionic,2.3,3200.0,6.1,120
+apple,Apple iPhone 14 Pro (256GB),1444,Haut de gamme,Oui,ios,6,256,bionic,2.3,3200.0,6.1,120
+apple,Apple iPhone 14 Pro Max,1444,Haut de gamme,Oui,ios,6,128,bionic,2.3,4323.0,6.7,120
+apple,Apple iPhone 14 Pro Max (1TB),2033,Haut de gamme,Oui,ios,6,1024,bionic,2.3,4323.0,6.7,120
+apple,Apple iPhone 14 Pro Max (256GB),1555,Haut de gamme,Oui,ios,6,256,bionic,2.3,4323.0,6.7,120
+apple,Apple iPhone 14 Pro Max (512GB),1888,Haut de gamme,Oui,ios,6,512,bionic,2.3,4323.0,6.7,120
+apple,Apple iPhone 15,922,Haut de gamme,Non,ios,6,128,bionic,2.3,3285.0,6.06,60
+apple,Apple iPhone 15 Plus,944,Haut de gamme,Oui,ios,8,128,bionic,2.3,4532.0,6.71,120
+apple,Apple iPhone 15 Pro,1455,Haut de gamme,Oui,ios,8,128,bionic,2.3,5000.0,6.06,120
+apple,Apple iPhone 15 Pro Max,1589,Haut de gamme,Oui,ios,8,256,bionic,2.3,4352.0,6.68,120
+apple,Apple iPhone 15 Ultra,1666,Haut de gamme,Oui,ios,8,128,bionic,2.3,4700.0,6.73,120
+apple,Apple iPhone 7s,589,Haut de gamme,Non,ios,3,32,fusion,2.37,2230.0,4.7,60
+apple,Apple iPhone 9,333,Milieu de gamme,Non,ios,3,64,bionic,2.65,2050.0,4.7,60
+apple,Apple iPhone SE 2020,443,Milieu de gamme,Non,ios,3,64,bionic,2.65,1821.0,4.7,60
+apple,Apple iPhone SE 3 2022,488,Milieu de gamme,Oui,ios,4,64,bionic,3.22,5000.0,4.7,60
+apple,Apple iPhone SE 4,555,Haut de gamme,Oui,ios,4,64,bionic,3.22,5000.0,6.1,60
+apple,Apple iPhone XR2,800,Haut de gamme,Non,ios,4,64,bionic,2.3,3060.0,6.1,60
+asus,Asus ROG Phone 5s 5G,444,Milieu de gamme,Oui,android,8,128,snapdragon,2.9,6000.0,6.78,144
+asus,Asus ROG Phone 6,800,Haut de gamme,Oui,android,12,256,snapdragon,3.2,6000.0,6.78,165
+asus,Asus ROG Phone 6 Batman Edition,811,Haut de gamme,Oui,android,16,256,dimensity,3.2,6000.0,6.78,165
+asus,Asus ROG Phone 6 Pro 5G,1000,Haut de gamme,Oui,android,18,512,snapdragon,3.2,6000.0,6.78,165
+asus,Asus ROG Phone 6D Ultimate,1200,Haut de gamme,Oui,android,16,512,dimensity,3.2,6000.0,6.78,165
+asus,Asus ROG Phone 7,844,Haut de gamme,Oui,android,18,256,snapdragon,3.2,6000.0,6.8,165
+asus,Asus ZenFone 9,711,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4300.0,5.9,120
+autre,Blackview BV5200 Pro,100,Entrée de gamme,Oui,android,4,64,helio,2.3,5180.0,6.1,60
+autre,BLU F91 5G,167,Entrée de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.8,60
+autre,CAT S22 Flip,167,Entrée de gamme,Non,android,2,16,snapdragon,1.3,2000.0,4.0,60
+autre,Cola Phone,167,Entrée de gamme,Non,android,4,64,helio,2.2,5000.0,6.4,90
+autre,Doogee S99,167,Entrée de gamme,Non,android,8,128,helio,2.05,6000.0,6.3,60
+autre,Doogee V Max,511,Haut de gamme,Oui,android,12,256,dimensity,2.6,22000.0,6.58,120
+autre,Duoqin F22 Pro,111,Entrée de gamme,Non,android,4,64,helio,2.0,2150.0,3.54,60
+autre,Gionee G13 Pro,69,Entrée de gamme,Non,other,4,32,tiger,2.0,3500.0,6.26,60
+autre,Gionee K10,78,Entrée de gamme,Non,android,3,32,tiger,2.0,4800.0,6.8,60
+autre,Gionee M12 Pro,83,Entrée de gamme,Non,android,6,128,helio,1.99,4000.0,6.2,60
+google,Google Pixel 2 XL,178,Entrée de gamme,Non,android,4,128,snapdragon,2.35,3520.0,6.0,60
+google,Google Pixel 3a XL,178,Entrée de gamme,Non,android,4,64,snapdragon,2.0,3700.0,6.0,60
+google,Google Pixel 4,224,Milieu de gamme,Non,android,6,64,snapdragon,2.8,2800.0,5.7,60
+google,Google Pixel 5,400,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4080.0,6.0,90
+google,Google Pixel 5A,367,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4620.0,6.34,60
+google,Google Pixel 6,450,Milieu de gamme,Oui,android,8,128,google,2.8,4614.0,6.4,90
+google,Google Pixel 6 Pro,603,Haut de gamme,Oui,android,12,128,google,2.8,5003.0,6.71,120
+google,Google Pixel 6 Pro (12GB RAM + 256GB),886,Haut de gamme,Oui,android,12,256,google,2.8,5003.0,6.71,120
+google,Google Pixel 6A,333,Milieu de gamme,Oui,android,6,128,google,2.3,4410.0,6.14,60
+google,Google Pixel 7 5G,590,Haut de gamme,Oui,android,8,128,google,2.85,4355.0,6.3,90
+google,Google Pixel 7 Pro 5G,911,Haut de gamme,Oui,android,12,128,google,2.85,5000.0,6.7,120
+google,Google Pixel 7A,389,Milieu de gamme,Oui,android,6,128,google,2.3,4410.0,6.1,90
+google,Google Pixel 8,600,Haut de gamme,Oui,android,8,128,google,2.3,4830.0,6.6,120
+google,Google Pixel 8 Pro,789,Haut de gamme,Oui,android,12,256,google,2.3,5000.0,6.73,120
+honor,Honor 50,367,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4300.0,6.57,120
+honor,Honor 60 SE 5G,278,Milieu de gamme,Oui,android,8,128,dimensity,2.0,4300.0,6.67,120
+honor,Honor 70 5G,444,Milieu de gamme,Oui,android,12,512,snapdragon,2.5,4800.0,6.67,120
+honor,Honor 70 5G (8GB RAM + 256GB),344,Milieu de gamme,Oui,android,8,256,snapdragon,2.5,4800.0,6.67,120
+honor,Honor 80 Pro Plus,611,Haut de gamme,Oui,android,12,256,snapdragon,3.0,4500.0,6.78,120
+honor,Honor Magic 4 Pro Plus 5G,1055,Haut de gamme,Oui,android,12,512,snapdragon,3.0,4600.0,6.76,120
+honor,Honor Play 30,111,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.5,60
+honor,Honor X6,156,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.5,60
+honor,Honor X7a,156,Entrée de gamme,Non,android,6,128,helio,2.3,5000.0,6.75,90
+honor,Honor X8,189,Entrée de gamme,Non,android,6,128,snapdragon,2.4,4000.0,6.7,90
+honor,Honor X8 5G,167,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.5,60
+honor,Honor X9 5G,189,Entrée de gamme,Oui,android,8,128,snapdragon,2.2,4800.0,6.81,60
+honor,Honor X9a,311,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,5100.0,6.67,120
+huawei,Huawei Honor 9N,122,Entrée de gamme,Non,android,4,64,kirin,2.36,3000.0,5.84,60
+huawei,Huawei Mate 40 Pro 4G,778,Haut de gamme,Non,other,8,128,kirin,3.13,4400.0,6.76,90
+huawei,Huawei Mate 50 Pro 5G,1111,Haut de gamme,Oui,other,8,256,kirin,3.13,4500.0,6.76,120
+huawei,Huawei Mate X,1878,Haut de gamme,Oui,android,8,512,kirin,2.86,4500.0,8.0,60
+huawei,Huawei Mate Xs 2,1811,Haut de gamme,Non,android,8,512,snapdragon,2.84,4600.0,7.8,120
+huawei,Huawei Nova 10,333,Milieu de gamme,Non,other,8,128,snapdragon,2.4,4000.0,6.67,120
+huawei,Huawei Nova 10 SE,267,Milieu de gamme,Non,android,8,256,snapdragon,2.4,4500.0,6.67,90
+huawei,Huawei Nova 7i,244,Milieu de gamme,Non,android,8,128,kirin,2.2,4200.0,6.4,60
+huawei,Huawei Nova 9,333,Milieu de gamme,Non,other,8,128,snapdragon,2.4,4300.0,6.57,120
+huawei,Huawei Nova 9 SE,222,Milieu de gamme,Non,android,8,128,snapdragon,2.4,4000.0,6.78,90
+huawei,Huawei Nova Y61,244,Milieu de gamme,Non,other,4,64,snapdragon,2.3,5000.0,6.52,60
+huawei,Huawei Nova Y90,255,Milieu de gamme,Non,other,8,128,snapdragon,2.4,5000.0,6.7,90
+huawei,Huawei P40 Pro,922,Haut de gamme,Oui,android,8,256,kirin,2.86,4200.0,6.58,90
+huawei,Huawei P50 Pro 4G,678,Haut de gamme,Non,other,8,256,snapdragon,2.84,4360.0,6.6,120
+autre,iKall Z18,76,Entrée de gamme,Non,android,4,64,snapdragon,1.3,5000.0,6.82,60
+autre,iKall Z19,89,Entrée de gamme,Non,android,4,32,snapdragon,1.6,5000.0,6.5,60
+autre,iKall Z19 Pro,90,Entrée de gamme,Non,android,4,64,snapdragon,1.6,5000.0,6.5,60
+infinix,Infinix Hot 11S,108,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.78,90
+infinix,Infinix Hot 12,111,Entrée de gamme,Non,android,4,64,helio,2.3,6000.0,6.82,90
+infinix,Infinix Hot 12 Play,99,Entrée de gamme,Non,android,4,64,tiger,1.82,6000.0,6.82,90
+infinix,Infinix Hot 12 Pro,121,Entrée de gamme,Non,android,6,64,tiger,2.0,5000.0,6.6,90
+infinix,Infinix Hot 12 Pro (8GB RAM+ 128GB),137,Entrée de gamme,Non,android,8,128,tiger,2.0,5000.0,6.6,90
+infinix,Infinix Hot 20,200,Milieu de gamme,Oui,android,4,64,dimensity,2.4,5000.0,6.6,120
+infinix,Infinix Hot 20 (6GB RAM+ 128GB),222,Milieu de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.6,120
+infinix,Infinix Hot 20 Play,100,Entrée de gamme,Non,android,4,64,helio,2.3,6000.0,6.82,90
+infinix,Infinix Hot 20i,111,Entrée de gamme,Non,android,3,64,helio,2.0,5000.0,6.6,60
+infinix,Infinix Hot 20S,144,Entrée de gamme,Non,android,8,128,helio,2.05,5000.0,6.78,60
+infinix,Infinix Note 11 (6GB RAM + 128GB),142,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.7,60
+infinix,Infinix Note 11S (8GB RAM + 128GB),178,Entrée de gamme,Non,android,8,128,helio,2.05,5000.0,6.95,120
+infinix,Infinix Note 12,130,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.7,60
+infinix,Infinix Note 12 (6GB RAM + 128GB),144,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.7,60
+infinix,Infinix Note 12 (G96),189,Entrée de gamme,Non,android,8,128,helio,2.05,5000.0,6.7,60
+infinix,Infinix Note 12 5G,178,Entrée de gamme,Oui,android,6,64,dimensity,2.4,5000.0,6.7,60
+infinix,Infinix Note 12 Pro,188,Entrée de gamme,Non,android,8,256,helio,2.2,5000.0,6.7,60
+infinix,Infinix Note 12 Pro 5G,211,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.7,60
+infinix,Infinix Note 12 Turbo,167,Entrée de gamme,Non,android,8,128,helio,2.0,5000.0,6.7,60
+infinix,Infinix Note 12 VIP,222,Milieu de gamme,Non,android,8,128,helio,2.05,4500.0,6.7,120
+infinix,Infinix Note 12i (2022),111,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.7,60
+infinix,Infinix Note 13 Pro,189,Entrée de gamme,Non,android,6,128,helio,2.2,5000.0,6.91,60
+infinix,Infinix Smart 6,81,Entrée de gamme,Non,android,2,64,helio,2.0,5000.0,6.6,60
+infinix,Infinix Smart 6 HD,78,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.6,60
+infinix,Infinix Smart 6 Plus,92,Entrée de gamme,Non,android,3,64,helio,2.0,5000.0,6.82,60
+infinix,Infinix Zero 20,200,Milieu de gamme,Non,android,8,128,helio,2.2,4500.0,6.7,90
+infinix,Infinix Zero 5G 2023,217,Milieu de gamme,Oui,android,8,256,dimensity,2.6,5000.0,6.78,120
+infinix,Infinix Zero Ultra,411,Milieu de gamme,Oui,android,8,256,dimensity,2.5,4500.0,6.8,120
+infinix,Infinix Zero X Pro,244,Milieu de gamme,Oui,android,8,128,helio,2.05,4500.0,6.67,120
+iqoo,iQOO 11 (16GB RAM + 256GB),722,Haut de gamme,Oui,android,16,256,snapdragon,3.2,5000.0,6.78,144
+iqoo,iQOO 11 5G,667,Haut de gamme,Oui,android,8,256,snapdragon,3.2,5000.0,6.78,144
+iqoo,iQOO 11 Pro 5G,655,Haut de gamme,Oui,android,8,256,snapdragon,3.2,4700.0,6.78,144
+iqoo,iQOO 7,278,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4400.0,6.62,120
+iqoo,iQOO 7 (12GB RAM + 256GB),400,Milieu de gamme,Oui,android,12,256,snapdragon,3.2,4400.0,6.62,120
+iqoo,iQOO 7 Legend,444,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4000.0,6.62,120
+iqoo,iQOO 9 5G,389,Milieu de gamme,Oui,android,8,128,snapdragon,2.9,4350.0,6.56,120
+iqoo,iQOO 9 5G (12GB RAM + 256GB),444,Milieu de gamme,Oui,android,12,256,snapdragon,2.9,4350.0,6.56,120
+iqoo,iQOO 9 Pro 5G,667,Haut de gamme,Oui,android,8,256,snapdragon,3.0,4700.0,6.78,120
+iqoo,iQOO 9 SE 5G,344,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4500.0,6.62,120
+iqoo,iQOO 9 SE 5G (12GB RAM + 256GB),388,Milieu de gamme,Oui,android,12,256,snapdragon,2.84,4500.0,6.62,120
+iqoo,iQOO 9T 5G,533,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4700.0,6.78,120
+iqoo,iQOO Neo 6 5G,322,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4700.0,6.62,120
+iqoo,iQOO Neo 6 5G (12GB RAM + 256GB),375,Milieu de gamme,Oui,android,12,256,snapdragon,3.2,4700.0,6.62,120
+iqoo,iQOO Neo 6 SE 5G,255,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4700.0,6.62,120
+iqoo,iQOO Neo 7 5G,333,Milieu de gamme,Oui,android,8,128,dimensity,3.1,5000.0,6.78,120
+iqoo,iQOO Neo 7 Racing Edition,367,Milieu de gamme,Oui,android,8,256,snapdragon,3.2,5000.0,6.78,120
+iqoo,iQOO Neo 7 SE 5G,278,Milieu de gamme,Oui,android,8,128,dimensity,3.1,5000.0,6.78,120
+iqoo,iQOO Z6 4G,161,Entrée de gamme,Non,android,4,128,snapdragon,2.4,5000.0,6.44,120
+iqoo,iQOO Z6 4G (6GB RAM + 128GB),178,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.44,120
+iqoo,iQOO Z6 5G,172,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.58,120
+iqoo,iQOO Z6 5G (6GB RAM + 128GB),188,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.58,120
+iqoo,iQOO Z6 5G (8GB RAM + 128GB),206,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.58,120
+iqoo,iQOO Z6 Lite (6GB RAM + 128GB),172,Entrée de gamme,Oui,android,6,128,snapdragon,2.0,5000.0,6.58,120
+iqoo,iQOO Z6 Lite 5G,155,Entrée de gamme,Oui,android,4,64,snapdragon,2.0,5000.0,6.58,120
+iqoo,iQOO Z6 Pro 5G,242,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4700.0,6.44,90
+iqoo,iQOO Z6 Pro 5G (12GB RAM + 256GB),311,Milieu de gamme,Oui,android,12,256,snapdragon,2.4,4700.0,6.44,90
+iqoo,iQOO Z6 Pro 5G (8GB RAM + 128GB),260,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4700.0,6.44,90
+iqoo,iQOO Z7 5G,200,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4200.0,6.67,120
+iqoo,iQOO Z7 Pro 5G,278,Milieu de gamme,Oui,android,6,128,snapdragon,2.36,5000.0,6.62,144
+iqoo,iQOO Z8 5G,167,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.58,120
+iqoo,iQOO Z9,222,Milieu de gamme,Oui,android,8,128,snapdragon,2.3,5000.0,6.67,120
+itel,Itel A23 Pro,44,Entrée de gamme,Non,android,1,8,spreadtrum,1.4,2400.0,5.0,60
+itel,itel A23s,53,Entrée de gamme,Non,android,2,32,spreadtrum,1.4,3020.0,5.0,60
+itel,Itel A24 Pro,67,Entrée de gamme,Non,android,2,32,unisoc,1.4,3020.0,5.0,60
+itel,itel A56,61,Entrée de gamme,Non,android,1,16,snapdragon,1.3,4000.0,6.0,60
+itel,itel P36,72,Entrée de gamme,Non,android,1,16,spreadtrum,1.3,5000.0,6.5,60
+itel,itel S16,67,Entrée de gamme,Non,android,1,16,unisoc,1.3,4000.0,6.5,60
+itel,itel S16 Pro,78,Entrée de gamme,Non,android,2,32,snapdragon,1.3,4000.0,6.6,60
+itel,itel Vision 1 (3GB RAM + 32GB),65,Entrée de gamme,Non,android,3,32,unisoc,1.6,4000.0,6.09,60
+itel,itel Vision 3,74,Entrée de gamme,Non,android,3,64,unisoc,1.6,5000.0,6.6,60
+itel,itel Vision 3 (2GB RAM + 32GB),64,Entrée de gamme,Non,android,2,32,unisoc,1.6,5000.0,6.6,60
+autre,Jio JioPhone 5G,133,Entrée de gamme,Oui,android,4,32,snapdragon,2.2,5000.0,6.5,90
+autre,Jio JioPhone Next,52,Entrée de gamme,Non,android,2,32,snapdragon,1.3,3500.0,5.45,60
+autre,Jio JioPhone Next (3GB RAM + 32GB),83,Entrée de gamme,Non,android,3,32,snapdragon,1.3,3000.0,5.5,60
+autre,Jio Phone 3,50,Entrée de gamme,Non,android,2,64,snapdragon,1.4,2800.0,5.0,60
+autre,Lava Agni 5G,200,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.78,90
+autre,Lava Blaze 5G,122,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.5,90
+autre,Lava Blaze NXT,100,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,60
+autre,Lava X3,78,Entrée de gamme,Non,android,3,32,helio,2.0,4000.0,6.5,60
+autre,LeEco S1 Pro,122,Entrée de gamme,Non,android,8,128,tiger,1.8,5000.0,6.5,60
+autre,Leitz Phone 2,1389,Haut de gamme,Oui,android,12,256,snapdragon,3.0,5000.0,6.6,240
+autre,Lenovo Legion Pro 2,667,Haut de gamme,Oui,android,16,512,snapdragon,2.84,5000.0,6.5,144
+autre,Lenovo Legion Y90,522,Haut de gamme,Oui,android,12,256,snapdragon,3.0,5600.0,6.92,144
+autre,Letv Y1 Pro,61,Entrée de gamme,Non,android,4,32,tiger,2.0,4000.0,6.54,60
+autre,Letv Y1 Pro Plus,67,Entrée de gamme,Non,android,6,64,tiger,1.8,4000.0,6.5,60
+autre,Letv Y2 Pro,78,Entrée de gamme,Non,android,4,32,unisoc,2.3,4000.0,6.5,60
+autre,LG V60 ThinQ,889,Haut de gamme,Oui,android,8,128,snapdragon,2.84,5000.0,6.8,60
+autre,LG Velvet 5G,611,Haut de gamme,Oui,android,6,128,snapdragon,2.4,4300.0,6.8,60
+autre,LG Wing 5G,611,Haut de gamme,Oui,android,8,128,snapdragon,2.4,4000.0,6.8,60
+autre,Lyf Earth 1,44,Entrée de gamme,Non,android,3,32,snapdragon,1.5,3500.0,5.5,60
+autre,Lyf Earth 2,43,Entrée de gamme,Non,android,3,32,snapdragon,1.5,2500.0,5.0,60
+autre,Micromax IN 2B,78,Entrée de gamme,Non,android,4,64,unisoc,1.8,5000.0,6.52,60
+autre,Micromax IN 2B (6GB RAM + 64GB),87,Entrée de gamme,Non,android,6,64,unisoc,1.8,5000.0,6.52,60
+autre,Micromax IN 2C,67,Entrée de gamme,Non,android,3,32,tiger,1.8,5000.0,6.52,60
+motorola,Motorola Edge 20 Fusion 5G,211,Milieu de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.67,90
+motorola,Motorola Edge 30 5G,256,Milieu de gamme,Oui,android,6,128,snapdragon,2.5,4020.0,6.5,144
+motorola,Motorola Edge 30 5G (8GB RAM + 128GB),278,Milieu de gamme,Oui,android,8,128,snapdragon,2.5,4020.0,6.5,144
+motorola,Motorola Edge 30 Fusion 5G,444,Milieu de gamme,Oui,android,8,128,snapdragon,2.9,4400.0,6.55,144
+motorola,Motorola Edge 30 Pro 5G,389,Milieu de gamme,Oui,android,8,128,snapdragon,3.0,4800.0,6.7,144
+motorola,Motorola Edge 30 Ultra,611,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4610.0,6.67,144
+motorola,Motorola Edge 30 Ultra (12GB RAM + 256GB),667,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4610.0,6.67,144
+motorola,Motorola Edge 40 5G,389,Milieu de gamme,Oui,android,8,128,snapdragon,2.36,4200.0,6.5,144
+motorola,Motorola Edge 40 Fusion,478,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4500.0,6.67,144
+motorola,Motorola Edge 40 Pro 5G,667,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4800.0,6.7,165
+motorola,Motorola Edge Plus,644,Haut de gamme,Oui,android,12,256,snapdragon,2.84,5000.0,6.7,90
+motorola,Motorola Edge S,250,Milieu de gamme,Oui,android,6,128,snapdragon,3.2,5000.0,6.7,90
+motorola,Motorola Moto E13,117,Entrée de gamme,Non,android,2,64,tiger,2.0,5000.0,6.5,60
+motorola,Motorola Moto E22s,100,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,90
+motorola,Motorola Moto E32,100,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,90
+motorola,Motorola Moto E32s,89,Entrée de gamme,Non,android,3,32,helio,1.8,5000.0,6.5,90
+motorola,Motorola Moto E32s (4GB RAM + 64GB),98,Entrée de gamme,Non,android,4,64,helio,1.8,5000.0,6.5,90
+motorola,Motorola Moto E40,89,Entrée de gamme,Non,android,4,64,tiger,1.8,5000.0,6.5,90
+motorola,Motorola Moto Edge 30 Neo,355,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4020.0,6.28,120
+motorola,Motorola Moto Edge S30 5G,267,Milieu de gamme,Oui,android,6,128,snapdragon,2.9,5000.0,6.8,144
+motorola,Motorola Moto Edge S30 Pro,389,Milieu de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.67,120
+motorola,Motorola Moto Edge X30 Pro,667,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4450.0,6.67,144
+motorola,Motorola Moto G 5G,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.67,60
+motorola,Motorola Moto G13,178,Entrée de gamme,Non,android,4,128,helio,2.0,5000.0,6.5,90
+motorola,Motorola Moto G22,106,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.53,90
+motorola,Motorola Moto G23,222,Milieu de gamme,Non,android,4,128,helio,2.0,5000.0,6.5,90
+motorola,Motorola Moto G31,111,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.47,60
+motorola,Motorola Moto G31 (6GB RAM+ 128GB),133,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.47,60
+motorola,Motorola Moto G32,117,Entrée de gamme,Non,android,4,64,snapdragon,2.4,5000.0,6.55,90
+motorola,Motorola Moto G40 Fusion,161,Entrée de gamme,Non,android,4,64,snapdragon,2.3,6000.0,6.78,120
+motorola,Motorola Moto G42,122,Entrée de gamme,Non,android,4,64,snapdragon,2.4,5000.0,6.47,60
+motorola,Motorola Moto G51 5G,144,Entrée de gamme,Oui,android,4,64,snapdragon,2.2,5000.0,6.8,120
+motorola,Motorola Moto G52,133,Entrée de gamme,Non,android,4,64,snapdragon,2.4,5000.0,6.6,90
+motorola,Motorola Moto G52 (6GB RAM + 128GB),144,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.6,90
+motorola,Motorola Moto G52 5G,189,Entrée de gamme,Oui,android,4,64,snapdragon,2.2,5000.0,6.6,90
+motorola,Motorola Moto G53,244,Milieu de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.5,120
+motorola,Motorola Moto G60,178,Entrée de gamme,Non,android,6,128,snapdragon,2.3,6000.0,6.78,120
+motorola,Motorola Moto G62 (8GB RAM + 128GB),183,Entrée de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.55,120
+motorola,Motorola Moto G62 5G,167,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.55,120
+motorola,Motorola Moto G71 5G,189,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.4,60
+motorola,Motorola Moto G72,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.5,120
+motorola,Motorola Moto G72 4G,178,Entrée de gamme,Non,android,6,128,helio,2.2,5000.0,6.55,120
+motorola,Motorola Moto G73,289,Milieu de gamme,Oui,android,8,256,dimensity,2.2,5000.0,6.5,120
+motorola,Motorola Moto G82 (8GB RAM + 128GB),228,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.6,120
+motorola,Motorola Moto G82 5G,211,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.6,120
+motorola,Motorola Moto G91 5G,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.8,60
+motorola,Motorola Moto S30 Pro,267,Milieu de gamme,Oui,android,8,128,snapdragon,2.9,4400.0,6.55,144
+motorola,Motorola Moto X30 Pro,467,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4450.0,6.67,144
+motorola,Motorola Moto X40,444,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4600.0,6.7,165
+motorola,Motorola One Fusion Plus,217,Milieu de gamme,Non,android,6,128,snapdragon,2.2,5000.0,6.5,60
+motorola,Motorola One Macro,128,Entrée de gamme,Non,android,4,64,helio,2.0,4000.0,6.2,60
+motorola,Motorola ThinkPhone,555,Haut de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.6,144
+nokia,Nokia C01 Plus,58,Entrée de gamme,Non,android,2,16,unisoc,1.6,3000.0,5.45,60
+nokia,Nokia C21 Plus (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,unisoc,1.6,5050.0,6.52,60
+nokia,Nokia C31,106,Entrée de gamme,Non,android,3,32,unisoc,1.6,5050.0,6.74,60
+nokia,Nokia G11 Plus,117,Entrée de gamme,Non,android,4,64,unisoc,1.6,5000.0,6.52,90
+nokia,Nokia G21,133,Entrée de gamme,Non,android,4,64,unisoc,1.6,5050.0,6.5,90
+nokia,Nokia G21 (6GB RAM + 128GB),150,Entrée de gamme,Non,android,6,128,unisoc,1.6,5050.0,6.5,90
+nokia,Nokia G60,317,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,4500.0,6.58,120
+nokia,Nokia N73 5G,522,Haut de gamme,Oui,android,12,256,snapdragon,3.0,6000.0,6.9,120
+nokia,Nokia X100 5G,200,Milieu de gamme,Oui,android,6,128,snapdragon,2.0,4470.0,6.67,60
+nokia,Nokia X30,467,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,4200.0,6.43,90
+nokia,Nokia X50 5G,389,Milieu de gamme,Oui,android,6,64,snapdragon,2.3,6000.0,6.81,60
+nokia,Nokia X60 5G,444,Milieu de gamme,Oui,other,6,128,snapdragon,3.2,6000.0,6.51,144
+nokia,Nokia X60 Pro 5G,555,Haut de gamme,Oui,android,8,128,snapdragon,3.2,6000.0,6.51,144
+nothing,Nothing Phone 1,297,Milieu de gamme,Oui,android,8,128,snapdragon,2.5,4500.0,6.55,120
+nothing,Nothing Phone 1 (12GB RAM + 256GB),400,Milieu de gamme,Oui,android,12,256,snapdragon,2.5,4500.0,6.55,120
+nothing,Nothing Phone 1 (8GB RAM + 256GB),314,Milieu de gamme,Oui,android,8,256,snapdragon,2.5,4500.0,6.55,120
+nothing,Nothing Phone 1 Lite,278,Milieu de gamme,Oui,android,6,128,snapdragon,2.5,5000.0,6.55,120
+nothing,Nothing Phone 2,444,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4700.0,6.67,120
+nubia,Nubia Red Magic 6S 5G,500,Milieu de gamme,Oui,android,8,128,snapdragon,2.9,5050.0,6.8,165
+nubia,Nubia Red Magic 7S Pro,678,Haut de gamme,Oui,android,12,256,snapdragon,3.2,5000.0,6.8,120
+nubia,Nubia Red Magic 8 Pro 5G,522,Haut de gamme,Oui,android,8,128,snapdragon,3.2,6000.0,6.8,120
+nubia,Nubia Red Magic 8 Pro Plus,678,Haut de gamme,Oui,android,12,256,snapdragon,3.2,5000.0,6.8,120
+nubia,Nubia Z40 Pro 5G,555,Haut de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.67,144
+nubia,Nubia Z50,389,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.67,144
+oneplus,OnePlus 10 Pro 5G,678,Haut de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.7,120
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 256GB),728,Haut de gamme,Oui,android,12,256,snapdragon,3.0,5000.0,6.7,120
+oneplus,OnePlus 10 Pro 5G (12GB RAM + 512GB),833,Haut de gamme,Oui,android,12,512,snapdragon,3.0,5000.0,6.7,120
+oneplus,OnePlus 10R 5G,367,Milieu de gamme,Oui,android,8,128,dimensity,2.85,5000.0,6.7,120
+oneplus,OnePlus 10R 5G (12GB RAM + 256GB),411,Milieu de gamme,Oui,android,12,256,dimensity,2.85,5000.0,6.7,120
+oneplus,OnePlus 10R Prime Edition,393,Milieu de gamme,Oui,android,8,128,dimensity,2.85,5000.0,6.7,120
+oneplus,OnePlus 10T,500,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4800.0,6.7,120
+oneplus,OnePlus 10T (12GB RAM + 256GB),567,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4800.0,6.7,120
+oneplus,OnePlus 10T (16GB RAM + 256GB),622,Haut de gamme,Oui,android,16,256,snapdragon,3.2,4800.0,6.7,120
+oneplus,OnePlus 11 5G,611,Haut de gamme,Oui,android,12,256,snapdragon,3.2,5000.0,6.7,120
+oneplus,OnePlus 11 Pro,778,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4500.0,6.7,120
+oneplus,OnePlus 11R,444,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.7,120
+oneplus,OnePlus 12 Pro,778,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4800.0,6.73,144
+oneplus,OnePlus 6 (8GB RAM + 128GB),311,Milieu de gamme,Non,android,8,128,snapdragon,2.8,3300.0,6.28,60
+oneplus,OnePlus 9 Pro,720,Haut de gamme,Oui,android,8,128,snapdragon,2.84,4500.0,6.7,120
+oneplus,OnePlus 9RT 5G,478,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4500.0,6.62,120
+oneplus,OnePlus 9T,500,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4500.0,6.55,120
+oneplus,OnePlus Ace 2,389,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.7,120
+oneplus,OnePlus Ace 5G,322,Milieu de gamme,Oui,android,8,128,dimensity,2.85,4500.0,6.7,120
+oneplus,OnePlus Ace Pro,533,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4800.0,6.7,120
+oneplus,OnePlus Ace Racing Edition 5G,255,Milieu de gamme,Oui,android,8,128,dimensity,2.85,5000.0,6.59,120
+oneplus,OnePlus Clover,167,Entrée de gamme,Non,android,4,64,snapdragon,1.8,6000.0,6.52,60
+oneplus,OnePlus Nord 2 Lite 5G,256,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.59,120
+oneplus,OnePlus Nord 2T (12GB RAM + 256GB),377,Milieu de gamme,Oui,android,12,256,dimensity,3.0,4500.0,6.43,90
+oneplus,OnePlus Nord 2T 5G,322,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.43,90
+oneplus,OnePlus Nord 3 5G,311,Milieu de gamme,Oui,android,8,128,dimensity,3.1,4200.0,6.43,90
+oneplus,OnePlus Nord 3T 5G,333,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.43,90
+oneplus,OnePlus Nord 4 5G,333,Milieu de gamme,Oui,android,8,128,snapdragon,2.36,4500.0,6.43,120
+oneplus,OnePlus Nord 5,389,Milieu de gamme,Oui,android,8,128,dimensity,2.3,5000.0,6.57,120
+oneplus,OnePlus Nord CE 2 Lite 5G,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.59,120
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 128GB),244,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.59,120
+oneplus,OnePlus Nord CE 2 Lite 5G (8GB RAM + 256GB),278,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,5000.0,6.59,120
+oneplus,OnePlus Nord CE 3 5G,244,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.7,120
+oneplus,OnePlus Nord CE 3 Lite 5G,211,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.59,120
+oneplus,OnePlus Nord Lite,222,Milieu de gamme,Non,android,8,128,snapdragon,2.0,4300.0,6.55,90
+oneplus,OnePlus Nord N10,284,Milieu de gamme,Oui,android,6,128,snapdragon,2.0,4300.0,6.49,90
+oneplus,OnePlus Nord N100,189,Entrée de gamme,Non,android,4,64,snapdragon,1.8,5000.0,6.52,90
+oneplus,OnePlus Nord N20 5G,233,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,4500.0,6.43,60
+oneplus,OnePlus Nord N200,189,Entrée de gamme,Oui,android,4,64,snapdragon,2.0,5000.0,6.49,90
+oneplus,OnePlus Nord N300,211,Milieu de gamme,Oui,android,4,64,dimensity,2.4,5000.0,6.56,90
+oneplus,OnePlus Nord SE,222,Milieu de gamme,Non,android,4,64,snapdragon,2.0,4500.0,6.3,60
+oneplus,OnePlus Z,278,Milieu de gamme,Non,android,8,128,snapdragon,2.4,4300.0,6.55,90
+oppo,OPPO A1 Pro,233,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4800.0,6.7,120
+oppo,Oppo A12,111,Entrée de gamme,Non,android,3,32,helio,1.8,4230.0,6.22,60
+oppo,OPPO A15,111,Entrée de gamme,Non,android,3,32,helio,2.3,4230.0,6.52,60
+oppo,Oppo A15s (4GB RAM + 128GB),128,Entrée de gamme,Non,android,4,128,helio,2.3,4230.0,6.52,60
+oppo,OPPO A16,133,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.52,60
+oppo,OPPO A16e,100,Entrée de gamme,Non,android,3,32,helio,2.0,4230.0,6.52,60
+oppo,OPPO A16e (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,helio,2.0,4230.0,6.52,60
+oppo,OPPO A16K (4GB RAM + 64GB),122,Entrée de gamme,Non,android,4,64,helio,2.3,4230.0,6.52,60
+oppo,OPPO A17,139,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.56,60
+oppo,OPPO A17K,106,Entrée de gamme,Non,android,3,64,helio,2.3,5000.0,6.56,60
+oppo,Oppo A31 2020 (6GB RAM + 128GB),139,Entrée de gamme,Non,android,6,128,helio,2.3,4230.0,6.5,60
+oppo,OPPO A53 2020 (6GB RAM + 128GB),155,Entrée de gamme,Non,android,6,128,snapdragon,1.8,5000.0,6.5,90
+oppo,OPPO A54,136,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.51,60
+oppo,OPPO A54 (4GB RAM + 128GB),133,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.51,60
+oppo,OPPO A54 (6GB RAM + 128GB),167,Entrée de gamme,Non,android,6,128,helio,2.3,5000.0,6.51,60
+oppo,OPPO A55 4G,150,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.51,60
+oppo,OPPO A55 4G (6GB RAM + 128GB),163,Entrée de gamme,Non,android,6,128,helio,2.3,5000.0,6.51,60
+oppo,OPPO A55 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.5,60
+oppo,Oppo A56 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.5,60
+oppo,Oppo A56s,144,Entrée de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.56,60
+oppo,OPPO A57 4G,133,Entrée de gamme,Non,android,3,64,helio,2.3,5000.0,6.56,60
+oppo,OPPO A57 4G (4GB RAM + 64 GB),155,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.56,60
+oppo,OPPO A58,211,Milieu de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.56,90
+oppo,OPPO A58x,155,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.56,90
+oppo,OPPO A73,178,Entrée de gamme,Non,android,3,32,helio,2.5,3200.0,6.0,60
+oppo,OPPO A74 5G,172,Entrée de gamme,Oui,android,6,128,snapdragon,2.0,5000.0,6.5,90
+oppo,OPPO A76,183,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.56,90
+oppo,OPPO A77,172,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.56,60
+oppo,OPPO A77 (4GB RAM + 128 GB),178,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.56,60
+oppo,Oppo A77 5G,244,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,5000.0,6.56,90
+oppo,OPPO A77s,200,Milieu de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.56,90
+oppo,Oppo A78,211,Milieu de gamme,Oui,android,8,128,dimensity,2.2,5000.0,6.56,90
+oppo,OPPO A96 4G,200,Milieu de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.59,90
+oppo,Oppo A96 5G,255,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,4500.0,6.43,60
+oppo,OPPO A97 5G,267,Milieu de gamme,Oui,android,12,256,dimensity,2.4,5000.0,6.56,90
+oppo,Oppo A98,344,Milieu de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.7,120
+oppo,OPPO F17 Pro,211,Milieu de gamme,Non,android,8,128,helio,2.2,4015.0,6.43,60
+oppo,OPPO F19,167,Entrée de gamme,Non,android,6,128,snapdragon,2.0,5000.0,6.4,60
+oppo,OPPO F19 Pro,200,Milieu de gamme,Non,android,8,128,helio,2.2,4310.0,6.43,60
+oppo,OPPO F19 Pro Plus 5G,222,Milieu de gamme,Oui,android,8,128,dimensity,2.4,4310.0,6.43,60
+oppo,OPPO F19s,178,Entrée de gamme,Non,android,6,128,snapdragon,2.0,5000.0,6.43,60
+oppo,OPPO F21 Pro 4G,233,Milieu de gamme,Non,android,8,128,snapdragon,2.4,4500.0,6.5,90
+oppo,OPPO F21 Pro 5G,289,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4500.0,6.43,60
+oppo,OPPO F21s Pro,288,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4500.0,6.43,60
+oppo,OPPO F21s Pro 4G,243,Milieu de gamme,Non,android,8,128,snapdragon,2.4,4500.0,6.43,90
+oppo,OPPO F22 Pro,307,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4800.0,6.58,120
+oppo,OPPO F23 Pro,222,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4500.0,6.5,90
+oppo,OPPO F23 Pro Plus 5G,311,Milieu de gamme,Oui,android,8,128,snapdragon,2.36,4500.0,6.43,90
+oppo,Oppo Find N 5G,1025,Haut de gamme,Oui,android,8,256,snapdragon,2.84,4500.0,7.1,120
+oppo,OPPO Find N Flip,1000,Haut de gamme,Oui,android,8,128,dimensity,3.05,4300.0,6.8,120
+oppo,Oppo Find N Fold,1111,Haut de gamme,Oui,other,8,256,snapdragon,3.2,5000.0,7.1,120
+oppo,Oppo Find N2 5G,1055,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4520.0,7.1,120
+oppo,OPPO Find N2 Flip,789,Haut de gamme,Oui,android,8,256,dimensity,3.2,4300.0,6.8,120
+oppo,Oppo Find X3 Pro,567,Haut de gamme,Oui,android,12,256,snapdragon,2.84,4500.0,6.7,120
+oppo,Oppo Find X5 Pro 5G,889,Haut de gamme,Oui,android,8,256,snapdragon,3.0,5000.0,6.7,120
+oppo,Oppo Find X6,778,Haut de gamme,Oui,android,8,256,snapdragon,3.2,4700.0,6.73,120
+oppo,Oppo Find X6 Pro,867,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4700.0,6.78,120
+oppo,OPPO K10,150,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.59,90
+oppo,OPPO K10 (8GB RAM + 128GB),189,Entrée de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.59,90
+oppo,OPPO K10 5G,189,Entrée de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.56,90
+oppo,Oppo K10 Pro 5G,333,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,5000.0,6.62,120
+oppo,Oppo K10x 5G,189,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.59,120
+oppo,Oppo K5 (8GB RAM + 128GB),222,Milieu de gamme,Non,android,8,128,snapdragon,2.2,4000.0,6.4,60
+oppo,OPPO Reno 10,367,Milieu de gamme,Oui,android,8,256,snapdragon,2.5,5000.0,6.73,120
+oppo,OPPO Reno 10 Pro,478,Milieu de gamme,Oui,android,16,256,dimensity,3.05,5000.0,6.73,120
+oppo,Oppo Reno 10 Pro Plus,655,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4700.0,6.73,120
+oppo,Oppo Reno 5,333,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4300.0,6.43,60
+oppo,Oppo Reno 5 Pro 5G,430,Milieu de gamme,Oui,android,8,128,dimensity,2.6,4350.0,6.53,90
+oppo,Oppo Reno 5A,255,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4000.0,6.5,90
+oppo,OPPO Reno 6,293,Milieu de gamme,Oui,android,8,128,dimensity,2.0,4300.0,6.43,90
+oppo,OPPO Reno 6 Pro 5G,408,Milieu de gamme,Oui,android,12,256,dimensity,3.0,4500.0,6.55,90
+oppo,OPPO Reno 6 Pro Plus 5G,500,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4500.0,6.55,90
+oppo,OPPO Reno 8 House of Dragon Edition,367,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.43,90
+oppo,Oppo Reno 8 Pro (8GB RAM + 256GB),478,Milieu de gamme,Oui,android,8,256,dimensity,2.85,4500.0,6.7,120
+oppo,OPPO Reno 8 Pro 5G,511,Haut de gamme,Oui,android,12,256,dimensity,2.85,4500.0,6.7,120
+oppo,OPPO Reno 8 Pro House of Dragon Edition,511,Haut de gamme,Oui,android,12,256,dimensity,2.85,4500.0,6.7,120
+oppo,OPPO Reno 8 Z,300,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,4500.0,6.43,60
+oppo,Oppo Reno 8T,333,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,5000.0,6.67,120
+oppo,Oppo Reno 8T 4G,222,Milieu de gamme,Non,android,8,256,helio,2.2,5000.0,6.67,120
+oppo,OPPO Reno 9 5G,317,Milieu de gamme,Oui,android,8,256,snapdragon,2.4,4500.0,6.7,120
+oppo,OPPO Reno 9 Pro 5G,444,Milieu de gamme,Oui,android,16,256,dimensity,2.85,4500.0,6.7,120
+oppo,OPPO Reno 9 Pro Plus,511,Haut de gamme,Oui,android,16,256,snapdragon,3.2,4700.0,6.7,120
+oppo,OPPO Reno 9 Z,255,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4800.0,6.58,120
+oppo,OPPO Reno7 5G,289,Milieu de gamme,Oui,android,8,256,dimensity,2.0,4500.0,6.43,90
+oppo,OPPO Reno7 Pro 5G,355,Milieu de gamme,Oui,android,12,256,dimensity,3.0,4500.0,6.55,90
+oppo,OPPO Reno7 Z 5G,200,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,4500.0,6.43,60
+oppo,OPPO Reno8 5G,326,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.43,90
+oppo,OPPO X 2021,1500,Haut de gamme,Non,android,8,256,snapdragon,2.84,4000.0,7.4,60
+autre,Oukitel WP19,333,Milieu de gamme,Non,android,8,256,helio,2.0,21000.0,6.78,60
+autre,Oukitel WP21,255,Milieu de gamme,Non,android,12,256,helio,2.2,9800.0,6.78,120
+autre,Oukitel WP9,288,Milieu de gamme,Non,android,6,128,helio,2.0,8000.0,5.86,60
+poco,POCO C31,72,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.53,60
+poco,POCO C31 (4GB RAM + 64GB),83,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.53,60
+poco,Poco C50,72,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.52,60
+poco,Poco C50 (3GB RAM + 32GB),81,Entrée de gamme,Non,android,3,32,helio,2.0,5000.0,6.52,60
+poco,Poco C55,89,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.71,60
+poco,Poco F3 GT,367,Milieu de gamme,Oui,android,6,128,dimensity,3.0,5065.0,6.67,120
+poco,Poco F4 (12GB RAM + 256GB),333,Milieu de gamme,Oui,android,12,256,snapdragon,3.2,4500.0,6.67,120
+poco,Poco F4 5G,289,Milieu de gamme,Oui,android,6,128,snapdragon,3.2,4500.0,6.67,120
+poco,Poco F4 5G (8GB RAM + 128GB),311,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4500.0,6.67,120
+poco,POCO F4 GT 5G,444,Milieu de gamme,Oui,android,8,128,snapdragon,3.0,4700.0,6.67,120
+poco,Poco F5,389,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4700.0,6.7,120
+poco,POCO F5 GT 5G,478,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.67,120
+poco,Poco F5 Pro,333,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5500.0,6.67,120
+poco,Poco M2,121,Entrée de gamme,Non,android,6,64,helio,2.0,5000.0,6.53,60
+poco,POCO M2 Pro,142,Entrée de gamme,Non,android,4,64,snapdragon,2.3,5000.0,6.67,60
+poco,Poco M3,128,Entrée de gamme,Non,android,6,64,snapdragon,2.0,6000.0,6.53,60
+poco,POCO M3 Pro 5G,178,Entrée de gamme,Oui,android,4,64,dimensity,2.2,5000.0,6.5,90
+poco,POCO M3 Pro 5G (6GB RAM + 128GB),164,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.5,90
+poco,Poco M4 5G,128,Entrée de gamme,Oui,android,4,64,dimensity,2.2,5000.0,6.58,90
+poco,Poco M4 5G (6GB RAM + 128GB),150,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.58,90
+poco,POCO M4 Pro 4G,133,Entrée de gamme,Non,android,6,64,helio,2.05,5000.0,6.43,90
+poco,POCO M4 Pro 4G (6GB RAM + 128GB),144,Entrée de gamme,Non,android,6,128,helio,2.05,5000.0,6.43,90
+poco,POCO M4 Pro 4G (8GB RAM + 128GB),156,Entrée de gamme,Non,android,8,128,helio,2.05,5000.0,6.43,90
+poco,Poco M4 Pro 5G,144,Entrée de gamme,Oui,android,4,64,dimensity,2.4,5000.0,6.6,90
+poco,Poco M4 Pro 5G (6GB RAM + 128GB),167,Entrée de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.6,90
+poco,Poco M4 Pro 5G (8GB RAM + 128GB),178,Entrée de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.6,90
+poco,Poco M5,120,Entrée de gamme,Non,android,4,64,helio,2.2,5000.0,6.58,90
+poco,Poco M5 (6GB RAM + 128GB),161,Entrée de gamme,Non,android,6,128,helio,2.2,5000.0,6.58,90
+poco,Poco M6 Pro,222,Milieu de gamme,Oui,android,8,128,dimensity,2.5,5100.0,6.73,120
+poco,Poco X3,150,Entrée de gamme,Non,android,6,64,snapdragon,2.3,6000.0,6.67,120
+poco,Poco X3 Pro,218,Milieu de gamme,Non,android,6,128,snapdragon,2.96,5160.0,6.67,120
+poco,Poco X4,167,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.67,120
+poco,POCO X4 GT 5G,278,Milieu de gamme,Oui,android,8,128,dimensity,2.85,5080.0,6.6,144
+poco,POCO X4 GT 5G (8GB RAM + 256GB),322,Milieu de gamme,Oui,android,8,256,dimensity,2.85,5080.0,6.6,144
+poco,Poco X4 Pro 5G,167,Entrée de gamme,Oui,android,6,64,snapdragon,2.2,5000.0,6.67,120
+poco,Poco X4 Pro 5G (6GB RAM + 128GB),183,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.67,120
+poco,Poco X4 Pro 5G (8GB RAM + 128GB),200,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.67,120
+poco,Poco X5,167,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.67,120
+poco,POCO X5 GT,333,Milieu de gamme,Oui,android,8,128,dimensity,3.2,5000.0,6.7,144
+poco,Poco X5 Pro,233,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,5000.0,6.67,120
+poco,Poco X6 Pro 5G,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.3,5000.0,6.67,120
+realme,Realme 10,156,Entrée de gamme,Non,android,4,64,helio,2.2,5000.0,6.4,90
+realme,Realme 10 (8GB RAM + 128GB),189,Entrée de gamme,Non,android,8,128,helio,2.2,5000.0,6.4,90
+realme,Realme 10 5G,161,Entrée de gamme,Oui,android,8,128,dimensity,2.2,5000.0,6.6,90
+realme,Realme 10 Pro,211,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.72,120
+realme,Realme 10 Pro (8GB RAM + 128GB),222,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.72,120
+realme,Realme 10 Pro Plus,278,Milieu de gamme,Oui,android,6,128,dimensity,2.6,5000.0,6.7,120
+realme,Realme 10 Pro Plus (8GB RAM + 256GB),311,Milieu de gamme,Oui,android,8,256,dimensity,2.6,5000.0,6.7,120
+realme,Realme 10s,144,Entrée de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.6,90
+realme,Realme 11 Pro,322,Milieu de gamme,Oui,android,6,128,snapdragon,3.0,5000.0,6.4,120
+realme,Realme 11 Pro Plus,278,Milieu de gamme,Oui,android,6,128,dimensity,2.2,4200.0,6.4,90
+realme,Realme 6 (6GB RAM + 64GB),144,Entrée de gamme,Non,android,6,64,helio,2.05,4300.0,6.5,90
+realme,Realme 6 Pro,161,Entrée de gamme,Non,android,6,64,snapdragon,2.3,4300.0,6.6,90
+realme,Realme 7 Pro (8GB RAM + 128GB),244,Milieu de gamme,Non,android,8,128,snapdragon,2.3,4500.0,6.4,60
+realme,Realme 8,178,Entrée de gamme,Non,android,4,128,helio,2.0,5000.0,6.4,60
+realme,Realme 8 (8GB RAM + 128GB),200,Milieu de gamme,Non,android,8,128,helio,2.0,5000.0,6.4,60
+realme,Realme 8 5G,183,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.5,90
+realme,Realme 8 5G (8GB RAM + 128GB),206,Milieu de gamme,Oui,android,8,128,dimensity,2.2,5000.0,6.5,90
+realme,Realme 8i,139,Entrée de gamme,Non,android,4,64,helio,2.05,5000.0,6.6,120
+realme,Realme 8i (6GB RAM + 128GB),156,Entrée de gamme,Non,android,6,128,helio,2.05,5000.0,6.6,120
+realme,Realme 8s 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.5,90
+realme,Realme 8s 5G (8GB RAM + 128GB),194,Entrée de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.5,90
+realme,Realme 9 4G,167,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.4,90
+realme,Realme 9 4G (8GB RAM + 128GB),178,Entrée de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.4,90
+realme,Realme 9 5G,156,Entrée de gamme,Oui,android,4,64,dimensity,2.4,5000.0,6.5,90
+realme,Realme 9 5G (6GB RAM + 128GB),172,Entrée de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.5,90
+realme,Realme 9 5G SE,211,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,5000.0,6.6,144
+realme,Realme 9 5G SE (8GB RAM + 128GB),256,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,5000.0,6.6,144
+realme,Realme 9 Pro 5G,211,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.6,120
+realme,Realme 9 Pro 5G (8GB RAM + 128GB),233,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.6,120
+realme,Realme 9 Pro Plus 5G,288,Milieu de gamme,Oui,android,6,128,dimensity,2.5,4500.0,6.4,90
+realme,Realme 9 Pro Plus 5G (8GB RAM + 128GB),255,Milieu de gamme,Oui,android,8,128,dimensity,2.5,4500.0,6.4,90
+realme,Realme 9 Pro Plus 5G (8GB RAM + 256GB),272,Milieu de gamme,Oui,android,8,256,dimensity,2.5,4500.0,6.4,90
+realme,Realme 9i,139,Entrée de gamme,Non,android,4,64,snapdragon,2.4,5000.0,6.6,90
+realme,Realme 9i (4GB RAM + 128GB),156,Entrée de gamme,Non,android,4,128,snapdragon,2.4,5000.0,6.6,90
+realme,Realme 9i (6GB RAM + 128GB),167,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.6,90
+realme,Realme 9i 5G,166,Entrée de gamme,Oui,android,4,64,dimensity,2.4,5000.0,6.6,90
+realme,Realme 9i 5G (6GB RAM + 128GB),189,Entrée de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.6,90
+realme,Realme A1,100,Entrée de gamme,Non,android,2,16,helio,2.1,4000.0,6.2,60
+realme,Realme C11,72,Entrée de gamme,Non,android,2,32,helio,2.3,5000.0,6.5,60
+realme,Realme C11 2021,72,Entrée de gamme,Non,android,2,32,sc9863a,1.6,5000.0,6.52,60
+realme,Realme C11 2021 (4GB RAM + 64GB),86,Entrée de gamme,Non,android,4,64,sc9863a,1.6,5000.0,6.52,60
+realme,Realme C2,78,Entrée de gamme,Non,android,2,16,helio,2.0,4000.0,6.1,60
+realme,Realme C21Y,78,Entrée de gamme,Non,android,3,32,unisoc,1.8,5000.0,6.5,60
+realme,Realme C25Y (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,tiger,1.8,5000.0,6.5,60
+realme,Realme C2s,39,Entrée de gamme,Non,android,3,32,helio,2.0,4000.0,6.1,60
+realme,Realme C30,59,Entrée de gamme,Non,android,2,32,tiger,1.82,5000.0,6.5,60
+realme,Realme C30 (3GB RAM + 32GB),70,Entrée de gamme,Non,android,3,32,tiger,1.82,5000.0,6.5,60
+realme,Realme C30s,79,Entrée de gamme,Non,android,2,32,unisoc,1.6,5000.0,6.5,60
+realme,Realme C30s (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,unisoc,1.6,5000.0,6.5,60
+realme,Realme C31,92,Entrée de gamme,Non,android,3,32,tiger,1.82,5000.0,6.52,60
+realme,Realme C31 (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,tiger,1.82,5000.0,6.52,60
+realme,Realme C32,106,Entrée de gamme,Non,android,4,64,tiger,1.82,5000.0,6.52,60
+realme,Realme C33,99,Entrée de gamme,Non,android,3,32,unisoc,1.8,5000.0,6.5,60
+realme,Realme C33 (4GB RAM + 64GB),111,Entrée de gamme,Non,android,4,64,unisoc,1.8,5000.0,6.5,60
+realme,Realme C35,131,Entrée de gamme,Non,android,4,64,tiger,1.8,5000.0,6.6,60
+realme,Realme C35 (4GB RAM + 128GB),142,Entrée de gamme,Non,android,4,128,tiger,1.8,5000.0,6.6,90
+realme,Realme C35 (6GB RAM + 128GB),156,Entrée de gamme,Non,android,6,128,tiger,1.8,5000.0,6.6,90
+realme,Realme G1,89,Entrée de gamme,Non,android,3,32,helio,2.3,6000.0,6.52,60
+realme,Realme GT 2 5G,322,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,5000.0,6.62,120
+realme,Realme GT 2 Explorer Master Edition,455,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.7,120
+realme,Realme GT 2 Pro 5G,555,Haut de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.7,120
+realme,Realme GT 2 Pro 5G (12GB RAM + 256GB),522,Haut de gamme,Oui,android,12,256,snapdragon,3.0,5000.0,6.7,120
+realme,Realme GT 5G,344,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4500.0,6.43,120
+realme,Realme GT Explorer Master Edition,367,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4500.0,6.55,120
+realme,Realme GT Master Edition 5G,311,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4300.0,6.43,120
+realme,Realme GT Neo 3 5G,355,Milieu de gamme,Oui,android,8,128,dimensity,2.85,5000.0,6.7,120
+realme,Realme GT Neo 3T,278,Milieu de gamme,Oui,android,6,128,snapdragon,3.2,5000.0,6.62,120
+realme,Realme GT Neo 3T (8GB RAM + 128GB),294,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.62,120
+realme,Realme GT Neo 3T (8GB RAM + 256GB),317,Milieu de gamme,Oui,android,8,256,snapdragon,3.2,5000.0,6.62,120
+realme,Realme GT Neo 4T,333,Milieu de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.73,144
+realme,Realme GT Neo 5,389,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4600.0,6.7,120
+realme,Realme GT Neo2 5G,356,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.62,120
+realme,Realme Narzo 20,117,Entrée de gamme,Non,android,4,64,helio,2.0,6000.0,6.5,60
+realme,Realme Narzo 30 5G,189,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.5,90
+realme,Realme Narzo 30 Pro 5G (8GB RAM +128GB),222,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.5,120
+realme,Realme Narzo 50,122,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.6,120
+realme,Realme Narzo 50 (6GB RAM + 128GB),172,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.6,120
+realme,Realme Narzo 50 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.6,90
+realme,Realme Narzo 50 5G (4GB RAM + 128GB),167,Entrée de gamme,Oui,android,4,128,dimensity,2.4,5000.0,6.6,90
+realme,Realme Narzo 50 5G (4GB RAM + 64GB),150,Entrée de gamme,Oui,android,4,64,dimensity,2.4,5000.0,6.6,90
+realme,Realme Narzo 50 Pro 5G,228,Milieu de gamme,Oui,android,6,128,dimensity,2.5,5000.0,6.4,90
+realme,Realme Narzo 50 Pro 5G (8GB RAM + 128GB),256,Milieu de gamme,Oui,android,8,128,dimensity,2.5,5000.0,6.4,90
+realme,Realme Narzo 50A,128,Entrée de gamme,Non,android,4,64,helio,2.0,6000.0,6.5,60
+realme,Realme Narzo 50A Prime,127,Entrée de gamme,Non,android,4,64,tiger,1.82,5000.0,6.6,60
+realme,Realme Narzo 50A Prime (4GB RAM + 128GB),132,Entrée de gamme,Non,android,4,128,tiger,1.82,5000.0,6.6,60
+realme,Realme Narzo 50i,72,Entrée de gamme,Non,android,2,32,unisoc,1.6,5000.0,6.5,60
+realme,Realme Narzo 50i (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,unisoc,1.6,5000.0,6.5,60
+realme,Realme Narzo 50i Prime,89,Entrée de gamme,Non,android,3,32,tiger,1.82,5000.0,6.5,60
+realme,Realme Narzo 50i Prime (4GB RAM + 64GB),97,Entrée de gamme,Non,android,4,64,tiger,1.82,5000.0,6.5,60
+realme,Realme Q2i,111,Entrée de gamme,Oui,android,4,128,dimensity,2.0,5000.0,6.5,60
+realme,Realme Q3,167,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.5,120
+realme,Realme Q3i 5G,122,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.5,60
+realme,Realme Q5 5G,167,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.6,120
+realme,Realme X50 Pro 5G (12GB RAM + 256GB),311,Milieu de gamme,Oui,android,12,256,snapdragon,2.84,4200.0,6.44,90
+realme,Realme X50 Pro 5G (8GB RAM + 128GB),278,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4200.0,6.44,90
+realme,Realme X7 Max,300,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.43,120
+realme,Realme XT,148,Entrée de gamme,Non,android,4,64,snapdragon,2.3,4000.0,6.4,60
+autre,Redmi 12C,89,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.71,60
+autre,Redmi Note 11 Pro 2023,211,Milieu de gamme,Non,android,6,128,snapdragon,2.3,5000.0,6.67,120
+autre,Redmi Note 12 Pro Speed Edition,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,5000.0,6.67,120
+autre,Royole FlexPai 2,1222,Haut de gamme,Oui,android,8,128,snapdragon,2.84,4450.0,7.8,60
+autre,Royole FlexPai 3 5G,1667,Haut de gamme,Oui,android,8,128,snapdragon,2.84,3360.0,7.2,60
+samsung,Samsung Galaxy A01 Core,56,Entrée de gamme,Non,android,1,16,mediatek,1.5,3000.0,5.3,60
+samsung,Samsung Galaxy A03,81,Entrée de gamme,Non,android,3,32,unisoc,1.6,5000.0,6.5,60
+samsung,Samsung Galaxy A03 (4GB RAM + 64GB),128,Entrée de gamme,Non,android,4,64,unisoc,1.6,5000.0,6.5,60
+samsung,Samsung Galaxy A03 Core,72,Entrée de gamme,Non,android,2,32,unisoc,1.6,5000.0,6.5,60
+samsung,Samsung Galaxy A03s,94,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A04,133,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A04 (4GB RAM + 128GB),144,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A04e,103,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A04e (3GB RAM + 64GB),111,Entrée de gamme,Non,android,3,64,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A04e (4GB RAM + 128GB),128,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A04s,144,Entrée de gamme,Non,android,4,64,exynos,2.0,5000.0,6.5,90
+samsung,Samsung Galaxy A04s (4GB RAM + 128GB),161,Entrée de gamme,Non,android,4,128,exynos,2.0,5000.0,6.5,90
+samsung,Samsung Galaxy A05,144,Entrée de gamme,Non,android,4,64,snapdragon,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A11,111,Entrée de gamme,Non,android,2,32,snapdragon,1.8,4000.0,6.4,60
+samsung,Samsung Galaxy A12,133,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A12 (6GB RAM + 128GB),156,Entrée de gamme,Non,android,6,128,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A13,161,Entrée de gamme,Non,android,4,64,snapdragon,2.0,5000.0,6.6,60
+samsung,Samsung Galaxy A13 (4GB RAM + 128GB),167,Entrée de gamme,Non,android,4,128,snapdragon,2.0,5000.0,6.6,60
+samsung,Samsung Galaxy A13 (6GB RAM + 128GB),183,Entrée de gamme,Non,android,6,128,snapdragon,2.0,5000.0,6.6,60
+samsung,Samsung Galaxy A13 5G,200,Milieu de gamme,Oui,android,4,64,dimensity,2.2,5000.0,6.5,90
+samsung,Samsung Galaxy A14 5G,183,Entrée de gamme,Oui,android,4,64,exynos,2.4,5000.0,6.6,90
+samsung,Samsung Galaxy A14 5G (6GB RAM + 128GB),211,Milieu de gamme,Oui,android,6,128,exynos,2.4,5000.0,6.6,90
+samsung,Samsung Galaxy A14 5G (8GB RAM + 128GB),233,Milieu de gamme,Oui,android,8,128,exynos,2.4,5000.0,6.6,90
+samsung,Samsung Galaxy A15,178,Entrée de gamme,Non,android,6,64,snapdragon,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy A21s (6GB RAM + 128GB),194,Entrée de gamme,Non,android,6,128,exynos,2.0,5000.0,6.5,60
+samsung,Samsung Galaxy A22,206,Milieu de gamme,Non,android,6,128,helio,2.0,5000.0,6.4,60
+samsung,Samsung Galaxy A22 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.6,90
+samsung,Samsung Galaxy A23,206,Milieu de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.6,60
+samsung,Samsung Galaxy A23 (8GB RAM + 128GB),222,Milieu de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.6,60
+samsung,Samsung Galaxy A23 5G,256,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.6,120
+samsung,Samsung Galaxy A23 5G (8GB RAM + 128GB),278,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.6,120
+samsung,Samsung Galaxy A24,200,Milieu de gamme,Non,android,6,64,exynos,1.8,4000.0,6.4,60
+samsung,Samsung Galaxy A32,183,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.4,90
+samsung,Samsung Galaxy A32 (8GB RAM + 128GB),183,Entrée de gamme,Non,android,8,128,helio,2.0,5000.0,6.4,90
+samsung,Samsung Galaxy A32 5G,272,Milieu de gamme,Oui,android,6,128,dimensity,2.0,5000.0,6.5,90
+samsung,Samsung Galaxy A33 5G,289,Milieu de gamme,Oui,android,6,128,exynos,2.4,5000.0,6.4,90
+samsung,Samsung Galaxy A33 5G (8GB RAM + 128GB),306,Milieu de gamme,Oui,android,8,128,exynos,2.4,5000.0,6.4,90
+samsung,Samsung Galaxy A34 5G,278,Milieu de gamme,Oui,android,6,128,exynos,2.3,5000.0,6.5,90
+samsung,Samsung Galaxy A40,200,Milieu de gamme,Non,android,4,64,exynos,2.2,3100.0,5.9,60
+samsung,Samsung Galaxy A50s,178,Entrée de gamme,Non,android,4,128,exynos,2.3,4000.0,6.4,60
+samsung,Samsung Galaxy A52,278,Milieu de gamme,Non,android,6,128,snapdragon,2.3,4500.0,6.5,90
+samsung,Samsung Galaxy A52 (8GB RAM + 128GB),250,Milieu de gamme,Non,android,8,128,snapdragon,2.3,4500.0,6.5,90
+samsung,Samsung Galaxy A53 (8GB RAM + 256GB),406,Milieu de gamme,Oui,android,8,256,exynos,2.4,5000.0,6.5,120
+samsung,Samsung Galaxy A53 5G,356,Milieu de gamme,Oui,android,6,128,exynos,2.4,5000.0,6.5,120
+samsung,Samsung Galaxy A53 5G (8GB RAM + 128GB),372,Milieu de gamme,Oui,android,8,128,exynos,2.4,5000.0,6.5,120
+samsung,Samsung Galaxy A54 5G,389,Milieu de gamme,Oui,android,6,128,exynos,2.3,5000.0,6.4,120
+samsung,Samsung Galaxy A7 (2018),239,Milieu de gamme,Non,android,4,64,exynos,2.2,3300.0,6.0,60
+samsung,Samsung Galaxy A71,250,Milieu de gamme,Non,android,8,128,snapdragon,2.2,4500.0,6.7,60
+samsung,Samsung Galaxy A73 5G,467,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,5000.0,6.7,120
+samsung,Samsung Galaxy A73 5G (8GB RAM + 256GB),467,Milieu de gamme,Oui,android,8,256,snapdragon,2.4,5000.0,6.7,120
+samsung,Samsung Galaxy A74 5G,478,Milieu de gamme,Oui,android,8,128,snapdragon,2.36,5000.0,6.7,120
+samsung,Samsung Galaxy A75 5G,500,Milieu de gamme,Oui,android,8,128,snapdragon,2.3,5000.0,6.7,120
+samsung,Samsung Galaxy A82 5G,444,Milieu de gamme,Oui,android,6,128,snapdragon,2.96,4500.0,6.71,120
+samsung,Samsung Galaxy A83 5G,444,Milieu de gamme,Oui,android,6,128,snapdragon,3.2,4500.0,6.71,120
+samsung,Samsung Galaxy A9 Pro (2019),444,Milieu de gamme,Non,android,6,128,snapdragon,2.2,3400.0,6.4,60
+samsung,Samsung Galaxy A92 5G,533,Haut de gamme,Oui,android,8,128,dimensity,3.0,5000.0,6.7,60
+samsung,Samsung Galaxy F04,94,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy F12,117,Entrée de gamme,Non,android,4,64,exynos,2.0,6000.0,6.5,90
+samsung,Samsung Galaxy F13,122,Entrée de gamme,Non,android,4,64,exynos,2.0,6000.0,6.6,60
+samsung,Samsung Galaxy F13 (4GB RAM + 128GB),133,Entrée de gamme,Non,android,4,128,exynos,2.0,6000.0,6.6,60
+samsung,Samsung Galaxy F14,167,Entrée de gamme,Non,android,4,64,snapdragon,2.3,5000.0,6.62,60
+samsung,Samsung Galaxy F22,128,Entrée de gamme,Non,android,4,64,helio,2.0,6000.0,6.4,90
+samsung,Samsung Galaxy F22 (6GB RAM + 128GB),150,Entrée de gamme,Non,android,6,128,helio,2.0,6000.0,6.4,90
+samsung,Samsung Galaxy F23 5G,178,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.6,120
+samsung,Samsung Galaxy F23 5G (6GB RAM + 128GB),189,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.6,120
+samsung,Samsung Galaxy F24 5G,167,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.6,120
+samsung,Samsung Galaxy F41 (6GB RAM + 128GB),222,Milieu de gamme,Non,android,6,128,exynos,2.3,6000.0,6.4,60
+samsung,Samsung Galaxy F42 5G,172,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.6,90
+samsung,Samsung Galaxy F42 5G (8GB RAM + 128GB),256,Milieu de gamme,Oui,android,8,128,dimensity,2.2,5000.0,6.6,90
+samsung,Samsung Galaxy F63,244,Milieu de gamme,Oui,android,6,128,dimensity,2.0,7000.0,6.7,60
+samsung,Samsung Galaxy M04,94,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy M04 (4GB RAM + 128GB),106,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy M12,122,Entrée de gamme,Non,android,4,64,exynos,2.0,6000.0,6.5,90
+samsung,Samsung Galaxy M13,144,Entrée de gamme,Non,android,6,128,exynos,2.0,6000.0,6.6,60
+samsung,Samsung Galaxy M13 (4GB RAM + 64GB),118,Entrée de gamme,Non,android,4,64,exynos,2.0,6000.0,6.6,60
+samsung,Samsung Galaxy M13 5G,156,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.5,90
+samsung,Samsung Galaxy M13 5G (4GB RAM + 64GB),144,Entrée de gamme,Oui,android,4,64,dimensity,2.2,5000.0,6.5,90
+samsung,Samsung Galaxy M14,167,Entrée de gamme,Non,android,4,64,exynos,2.3,6000.0,6.5,60
+samsung,Samsung Galaxy M21 2021,130,Entrée de gamme,Non,android,4,64,exynos,2.3,6000.0,6.4,60
+samsung,Samsung Galaxy M32,137,Entrée de gamme,Non,android,4,64,helio,2.0,6000.0,6.4,90
+samsung,Samsung Galaxy M32 (6GB RAM + 128GB),161,Entrée de gamme,Non,android,6,128,helio,2.0,6000.0,6.4,90
+samsung,Samsung Galaxy M32 Prime Edition,135,Entrée de gamme,Non,android,4,64,helio,2.0,6000.0,6.4,90
+samsung,Samsung Galaxy M32 Prime Edition (6GB RAM + 128GB),165,Entrée de gamme,Non,android,6,128,helio,2.0,6000.0,6.4,90
+samsung,Samsung Galaxy M33 5G,194,Entrée de gamme,Oui,android,6,128,exynos,2.4,6000.0,6.6,120
+samsung,Samsung Galaxy M33 5G (8GB RAM + 128GB),217,Milieu de gamme,Oui,android,8,128,exynos,2.4,6000.0,6.6,120
+samsung,Samsung Galaxy M34 5G,189,Entrée de gamme,Oui,android,6,128,exynos,2.4,6000.0,6.5,120
+samsung,Samsung Galaxy M35,256,Milieu de gamme,Non,android,8,128,snapdragon,2.3,6000.0,6.5,60
+samsung,Samsung Galaxy M51s 5G,278,Milieu de gamme,Oui,android,6,128,snapdragon,2.3,6000.0,6.7,60
+samsung,Samsung Galaxy M52s 5G,278,Milieu de gamme,Oui,android,8,128,snapdragon,2.3,5000.0,6.5,60
+samsung,Samsung Galaxy M53 5G,264,Milieu de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.7,120
+samsung,Samsung Galaxy M53 5G (8GB RAM + 128GB),281,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.7,120
+samsung,Samsung Galaxy M54 5G,389,Milieu de gamme,Oui,android,6,128,snapdragon,2.84,6000.0,6.67,90
+samsung,Samsung Galaxy M62,267,Milieu de gamme,Non,android,6,128,exynos,2.73,7000.0,6.71,60
+samsung,Samsung Galaxy Note 10 Lite,444,Milieu de gamme,Non,android,6,128,exynos,2.7,4500.0,6.7,60
+samsung,Samsung Galaxy Note 10 Plus,656,Haut de gamme,Non,android,12,256,exynos,2.73,4300.0,6.8,60
+samsung,Samsung Galaxy Note 10 Plus 5G,1033,Haut de gamme,Oui,android,12,256,exynos,2.7,4300.0,6.8,60
+samsung,Samsung Galaxy Note 20,956,Haut de gamme,Non,android,8,256,exynos,2.73,4300.0,6.7,60
+samsung,Samsung Galaxy Note 30 Ultra 5G,1167,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4500.0,6.71,120
+samsung,Samsung Galaxy S10 5G,878,Haut de gamme,Oui,android,8,256,exynos,2.7,4500.0,6.7,60
+samsung,Samsung Galaxy S10 Plus,478,Milieu de gamme,Non,android,8,128,exynos,2.7,4100.0,6.4,60
+samsung,Samsung Galaxy S20,467,Milieu de gamme,Non,android,8,128,exynos,2.73,4000.0,6.2,120
+samsung,Samsung Galaxy S20 5G,833,Haut de gamme,Oui,android,8,128,exynos,2.73,4000.0,6.2,60
+samsung,Samsung Galaxy S20 FE,394,Milieu de gamme,Non,android,8,128,exynos,2.73,4500.0,6.5,120
+samsung,Samsung Galaxy S20 FE 5G,347,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4500.0,6.5,120
+samsung,Samsung Galaxy S20 Plus,922,Haut de gamme,Non,android,8,128,exynos,2.73,4500.0,6.7,120
+samsung,Samsung Galaxy S20 Plus 5G,955,Haut de gamme,Oui,android,8,128,exynos,2.73,4500.0,6.7,60
+samsung,Samsung Galaxy S20 Ultra 5G,1111,Haut de gamme,Oui,android,12,128,exynos,2.73,5000.0,6.9,60
+samsung,Samsung Galaxy S21,543,Haut de gamme,Oui,android,8,128,exynos,2.9,4000.0,6.2,120
+samsung,Samsung Galaxy S21 FE 5G,444,Milieu de gamme,Oui,android,8,128,exynos,2.9,4500.0,6.4,120
+samsung,Samsung Galaxy S21 FE 5G (8GB RAM + 256GB),489,Milieu de gamme,Oui,android,8,256,exynos,2.9,4500.0,6.4,120
+samsung,Samsung Galaxy S21 Plus,661,Haut de gamme,Oui,android,8,128,exynos,2.9,4800.0,6.7,120
+samsung,Samsung Galaxy S21 Ultra,1178,Haut de gamme,Oui,android,12,256,exynos,2.9,5000.0,6.8,120
+samsung,Samsung Galaxy S21 Ultra 5G (12GB RAM + 128GB),1133,Haut de gamme,Oui,android,12,128,exynos,2.9,5000.0,6.8,120
+samsung,Samsung Galaxy S22 5G,556,Haut de gamme,Oui,android,8,128,snapdragon,3.0,3700.0,6.1,120
+samsung,Samsung Galaxy S22 5G (8GB RAM + 256GB),644,Haut de gamme,Oui,android,8,256,snapdragon,3.0,3700.0,6.1,120
+samsung,Samsung Galaxy S22 FE 5G,578,Haut de gamme,Oui,android,8,128,exynos,2.3,4200.0,6.4,120
+samsung,Samsung Galaxy S22 Plus 5G,716,Haut de gamme,Oui,android,8,128,snapdragon,3.0,4500.0,6.6,120
+samsung,Samsung Galaxy S22 Plus 5G (8GB RAM + 256GB),989,Haut de gamme,Oui,android,8,256,snapdragon,3.0,4500.0,6.6,120
+samsung,Samsung Galaxy S22 Ultra 5G,1022,Haut de gamme,Oui,android,12,256,snapdragon,3.0,5000.0,6.8,120
+samsung,Samsung Galaxy S22 Ultra 5G (12GB RAM + 512GB),1322,Haut de gamme,Oui,android,12,512,snapdragon,3.0,5000.0,6.8,120
+samsung,Samsung Galaxy S22 Ultra 5G (8GB RAM + 128GB),1111,Haut de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.8,120
+samsung,Samsung Galaxy S23,789,Haut de gamme,Oui,android,8,128,snapdragon,3.2,3900.0,6.1,120
+samsung,Samsung Galaxy S23 FE 5G,611,Haut de gamme,Oui,android,8,128,snapdragon,2.3,4500.0,6.5,60
+samsung,Samsung Galaxy S23 Plus,944,Haut de gamme,Oui,android,8,256,snapdragon,3.2,4700.0,6.6,120
+samsung,Samsung Galaxy S23 Ultra 5G,1278,Haut de gamme,Oui,android,8,256,snapdragon,3.2,5000.0,6.8,120
+samsung,Samsung Galaxy S24 Ultra,1333,Haut de gamme,Oui,android,12,256,snapdragon,2.3,5100.0,6.83,144
+samsung,Samsung Galaxy S9 Plus (128GB),389,Milieu de gamme,Non,android,6,128,exynos,2.8,3500.0,6.2,60
+samsung,Samsung Galaxy Z Flip 3,778,Haut de gamme,Oui,android,8,128,snapdragon,2.84,3300.0,6.7,120
+samsung,Samsung Galaxy Z Flip 4 5G,1000,Haut de gamme,Oui,android,8,128,snapdragon,3.2,3700.0,6.7,120
+samsung,Samsung Galaxy Z Fold 3,1233,Haut de gamme,Oui,android,12,256,snapdragon,2.84,4400.0,7.6,120
+samsung,Samsung Galaxy Z Fold 4,1722,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4400.0,7.6,120
+samsung,Samsung Galaxy Z Fold 4 (12GB RAM + 1TB),1822,Haut de gamme,Oui,android,12,1024,snapdragon,3.2,4400.0,7.6,120
+autre,Sharp Aquos R5G,667,Haut de gamme,Non,android,12,256,snapdragon,2.84,3730.0,6.5,60
+sony,Sony Xperia 1 II,778,Haut de gamme,Oui,android,8,256,snapdragon,2.84,4000.0,6.5,60
+sony,Sony Xperia 1 IV (12GB RAM + 512GB),1033,Haut de gamme,Oui,android,12,512,snapdragon,3.0,5000.0,6.5,120
+sony,Sony Xperia 10 II,311,Milieu de gamme,Non,android,4,128,snapdragon,2.0,3600.0,6.0,90
+sony,Sony Xperia 10 III Lite 5G,344,Milieu de gamme,Oui,android,6,64,snapdragon,2.0,4500.0,6.0,60
+sony,Sony Xperia 5 II,778,Haut de gamme,Oui,android,8,128,snapdragon,2.84,4000.0,6.1,120
+sony,Sony Xperia 5 IV 5G,913,Haut de gamme,Oui,android,8,256,snapdragon,3.0,5000.0,6.1,120
+sony,Sony Xperia Ace IV,222,Milieu de gamme,Non,android,8,128,snapdragon,2.0,5000.0,6.5,120
+sony,Sony Xperia L5 5G,178,Entrée de gamme,Non,android,4,64,helio,2.3,4000.0,6.2,60
+sony,Sony Xperia Pro-I,1500,Haut de gamme,Oui,android,12,512,snapdragon,2.84,4500.0,6.5,120
+autre,TCL Ion X,100,Entrée de gamme,Non,android,3,32,helio,2.0,3000.0,6.0,60
+tecno,Tecno Camon 18,128,Entrée de gamme,Non,android,4,128,helio,2.0,5000.0,6.8,90
+tecno,Tecno Camon 19,164,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.8,60
+tecno,Tecno Camon 19 Neo,167,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.8,90
+tecno,Tecno Camon 19 Pro,200,Milieu de gamme,Non,android,8,128,helio,2.05,5000.0,6.8,120
+tecno,Tecno Camon 19 Pro 5G,244,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.8,120
+tecno,Tecno Camon 19 Pro Mondrian Edition,200,Milieu de gamme,Non,android,8,128,helio,2.05,5000.0,6.8,120
+tecno,Tecno Camon 20 Premier,233,Milieu de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.83,120
+tecno,Tecno Phantom X,289,Milieu de gamme,Non,android,8,256,helio,2.05,4700.0,6.7,90
+tecno,Tecno Phantom X Pro,256,Milieu de gamme,Non,android,8,256,helio,2.05,5000.0,6.7,120
+tecno,Tecno Phantom X2,444,Milieu de gamme,Oui,android,8,256,dimensity,3.05,5160.0,6.8,120
+tecno,Tecno Phantom X2 Pro,556,Haut de gamme,Oui,android,12,256,dimensity,3.05,5160.0,6.8,120
+tecno,Tecno Pop 5 Go,78,Entrée de gamme,Non,android,1,16,spreadtrum,1.3,4000.0,6.1,60
+tecno,Tecno Pop 6 Pro,70,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.56,60
+tecno,Tecno Pova 2,122,Entrée de gamme,Non,android,4,64,helio,2.0,7000.0,6.95,60
+tecno,Tecno Pova 3,111,Entrée de gamme,Non,android,4,64,helio,2.0,7000.0,6.95,90
+tecno,Tecno Pova 3 (6GB RAM + 128GB),153,Entrée de gamme,Non,android,6,128,helio,2.0,7000.0,6.9,90
+tecno,Tecno Pova 4,133,Entrée de gamme,Non,android,8,128,helio,2.2,6000.0,6.82,90
+tecno,Tecno Pova 4 Pro,178,Entrée de gamme,Non,android,8,256,helio,2.2,6000.0,6.66,90
+tecno,Tecno Pova 5G,172,Entrée de gamme,Oui,android,8,128,dimensity,2.4,6000.0,6.9,120
+tecno,Tecno Pova Neo 2,155,Entrée de gamme,Non,android,6,128,helio,2.0,7000.0,6.82,90
+tecno,Tecno Pova Neo 5G,172,Entrée de gamme,Non,android,4,128,dimensity,2.4,6000.0,6.8,120
+tecno,Tecno Spark 8 (4GB RAM + 64GB),100,Entrée de gamme,Non,android,4,64,helio,1.8,5000.0,6.52,60
+tecno,Tecno Spark 8 Pro,98,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.8,60
+tecno,Tecno Spark 8C,82,Entrée de gamme,Non,android,3,64,unisoc,2.0,5000.0,6.6,90
+tecno,Tecno Spark 8C (4GB RAM + 64GB),99,Entrée de gamme,Non,android,4,64,unisoc,2.0,5000.0,6.6,90
+tecno,Tecno Spark 8T,89,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.6,60
+tecno,Tecno Spark 9,100,Entrée de gamme,Non,android,6,128,helio,2.3,5000.0,6.6,90
+tecno,Tecno Spark 9 (3GB RAM + 64GB),93,Entrée de gamme,Non,android,3,64,helio,2.3,5000.0,6.6,90
+tecno,Tecno Spark 9 (4GB RAM + 64GB),89,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.6,90
+tecno,Tecno Spark 9 Pro,111,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.6,90
+tecno,Tecno Spark 9T,100,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.6,60
+tecno,Tecno Spark Go 2022,69,Entrée de gamme,Non,android,2,32,snapdragon,2.2,5000.0,6.51,60
+tecno,Tecno Spark Go 2023,78,Entrée de gamme,Non,android,3,32,helio,2.0,5000.0,6.56,60
+autre,Tesla Pi Phone,778,Haut de gamme,Oui,android,16,512,snapdragon,2.3,5000.0,6.73,165
+vivo,Vivo S1 Pro,333,Milieu de gamme,Non,android,8,128,snapdragon,2.0,4500.0,6.38,60
+vivo,Vivo S16,333,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4600.0,6.78,120
+vivo,Vivo S16 Pro,394,Milieu de gamme,Oui,android,8,256,dimensity,3.1,4600.0,6.78,120
+vivo,Vivo S17 Pro,555,Haut de gamme,Oui,android,12,256,dimensity,2.3,5000.0,6.67,120
+vivo,Vivo T1 44W,161,Entrée de gamme,Non,android,4,128,snapdragon,2.4,5000.0,6.44,60
+vivo,Vivo T1 44W (6GB RAM + 128GB),178,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.44,60
+vivo,Vivo T1 44W (8GB RAM + 128GB),200,Milieu de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.44,60
+vivo,Vivo T1 5G,178,Entrée de gamme,Oui,android,4,128,snapdragon,2.2,5000.0,6.58,120
+vivo,Vivo T1 5G (6GB RAM + 128GB),189,Entrée de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.58,120
+vivo,Vivo T1 5G (8GB RAM + 128GB),222,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.58,120
+vivo,Vivo T1 Pro,267,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4700.0,6.44,90
+vivo,Vivo T1 Pro 5G (8GB RAM + 128GB),278,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4700.0,6.44,90
+vivo,Vivo T1x (4GB RAM + 128GB),144,Entrée de gamme,Non,android,4,128,snapdragon,2.4,5000.0,6.58,90
+vivo,Vivo T1x (6GB RAM + 128GB),167,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.58,90
+vivo,Vivo T1x 4G,133,Entrée de gamme,Non,android,4,64,snapdragon,2.4,5000.0,6.58,90
+vivo,Vivo T2 5G,278,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4700.0,6.62,120
+vivo,Vivo T2 Pro 5G,333,Milieu de gamme,Oui,android,8,128,snapdragon,2.3,4500.0,6.44,90
+vivo,Vivo T2x 5G,211,Milieu de gamme,Oui,android,8,128,dimensity,3.0,6000.0,6.58,120
+vivo,Vivo T3 Pro,355,Milieu de gamme,Oui,android,8,256,snapdragon,2.7,4700.0,6.67,120
+vivo,Vivo U3,111,Entrée de gamme,Non,android,4,64,snapdragon,2.0,5000.0,6.53,60
+vivo,Vivo U3 (6GB RAM + 64GB),133,Entrée de gamme,Non,android,6,64,snapdragon,2.0,5000.0,6.53,60
+vivo,Vivo U3x,100,Entrée de gamme,Oui,android,6,64,snapdragon,2.0,5000.0,6.58,90
+vivo,Vivo V11i,233,Milieu de gamme,Non,android,4,128,helio,2.0,3315.0,6.3,60
+vivo,Vivo V15 Pro (8GB RAM +128GB),278,Milieu de gamme,Non,android,8,128,snapdragon,2.0,3700.0,6.39,60
+vivo,Vivo V19 (8GB RAM + 256GB),311,Milieu de gamme,Non,android,8,256,snapdragon,2.3,4500.0,6.44,60
+vivo,Vivo V20,259,Milieu de gamme,Non,android,8,128,snapdragon,2.3,4000.0,6.44,60
+vivo,Vivo V20 Pro,300,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4000.0,6.44,60
+vivo,Vivo V20 SE,211,Milieu de gamme,Non,android,8,128,snapdragon,2.0,4100.0,6.44,60
+vivo,Vivo V21,278,Milieu de gamme,Non,android,8,128,dimensity,2.4,4000.0,6.44,90
+vivo,Vivo V21 5G,267,Milieu de gamme,Oui,android,8,128,dimensity,2.4,4000.0,6.44,90
+vivo,Vivo V21 Pro,367,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4300.0,6.44,60
+vivo,Vivo V21s,333,Milieu de gamme,Oui,android,8,128,dimensity,2.4,4000.0,6.44,90
+vivo,Vivo V23 5G,278,Milieu de gamme,Oui,android,8,128,dimensity,2.5,4200.0,6.44,90
+vivo,Vivo V23 5G (12GB RAM + 256GB),311,Milieu de gamme,Oui,android,12,256,dimensity,2.5,4200.0,6.44,90
+vivo,Vivo V23 Pro 5G,355,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4300.0,6.56,90
+vivo,Vivo V23 Pro 5G (12GB RAM + 256GB),411,Milieu de gamme,Oui,android,12,256,dimensity,3.0,4300.0,6.56,90
+vivo,Vivo V23e,300,Milieu de gamme,Non,android,8,128,helio,2.05,4050.0,6.44,60
+vivo,Vivo V23e 5G,244,Milieu de gamme,Oui,android,8,128,dimensity,2.4,4050.0,6.44,60
+vivo,Vivo V25 (12GB RAM + 256GB),356,Milieu de gamme,Oui,android,12,256,dimensity,2.0,4500.0,6.44,90
+vivo,Vivo V25 5G,311,Milieu de gamme,Oui,android,8,128,dimensity,2.0,4500.0,6.44,90
+vivo,Vivo V25 Pro (12GB RAM + 256GB),444,Milieu de gamme,Oui,android,12,256,dimensity,3.0,4830.0,6.56,120
+vivo,Vivo V25 Pro 5G,400,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4830.0,6.56,120
+vivo,Vivo V25e,222,Milieu de gamme,Non,android,8,256,helio,2.2,4500.0,6.44,90
+vivo,Vivo V26 Pro,478,Milieu de gamme,Oui,android,12,256,dimensity,3.2,4800.0,6.7,120
+vivo,Vivo V27,311,Milieu de gamme,Oui,android,8,256,dimensity,2.2,4700.0,6.56,120
+vivo,Vivo V27 Pro,489,Milieu de gamme,Oui,android,12,256,dimensity,3.2,5000.0,6.73,144
+vivo,Vivo V28,322,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,5000.0,6.7,120
+vivo,Vivo V29,367,Milieu de gamme,Oui,android,8,256,snapdragon,2.4,5000.0,6.67,120
+vivo,Vivo X Fold 2,1333,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4800.0,8.03,120
+vivo,Vivo X Fold 5G,1189,Haut de gamme,Oui,android,12,256,snapdragon,3.0,4600.0,8.03,120
+vivo,Vivo X Fold 5G (12GB RAM + 512GB),1322,Haut de gamme,Oui,android,12,512,snapdragon,3.0,4600.0,8.03,120
+vivo,Vivo X Fold Plus,1267,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4730.0,8.03,120
+vivo,Vivo X Note 5G (12GB RAM + 512GB),922,Haut de gamme,Oui,android,12,512,snapdragon,3.0,5000.0,7.0,120
+vivo,Vivo X80 5G,611,Haut de gamme,Oui,android,8,128,dimensity,3.05,4500.0,6.78,120
+vivo,Vivo X80 5G (12GB RAM + 256GB),667,Haut de gamme,Oui,android,12,256,dimensity,3.05,4500.0,6.78,120
+vivo,Vivo X80 Pro 5G,889,Haut de gamme,Oui,android,12,256,snapdragon,3.0,4700.0,6.78,120
+vivo,Vivo X80 Pro Plus 5G,922,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4500.0,6.78,120
+vivo,Vivo X90 5G,467,Milieu de gamme,Oui,android,8,128,dimensity,3.05,4810.0,6.78,120
+vivo,Vivo X90 Pro 5G,633,Haut de gamme,Oui,android,8,256,dimensity,3.05,4870.0,6.78,120
+vivo,Vivo X90 Pro Plus 5G,822,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4700.0,6.78,120
+vivo,Vivo Y01,89,Entrée de gamme,Non,android,2,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y01A,87,Entrée de gamme,Non,android,2,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y02,100,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y02 (2GB RAM + 32GB),89,Entrée de gamme,Non,android,2,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y02s,100,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y10,139,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y100,333,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.0,120
+vivo,Vivo Y11 (2019),105,Entrée de gamme,Non,android,3,32,snapdragon,2.0,5000.0,6.35,60
+vivo,Vivo Y12 (3GB RAM + 64GB),122,Entrée de gamme,Non,android,3,64,helio,2.0,5000.0,6.35,60
+vivo,Vivo Y12a,111,Entrée de gamme,Non,android,3,32,snapdragon,2.0,5000.0,6.51,60
+vivo,Vivo Y12G (3GB RAM + 64GB),133,Entrée de gamme,Non,android,3,64,snapdragon,2.0,5000.0,6.51,60
+vivo,Vivo Y15,139,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.35,60
+vivo,Vivo Y15C,94,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y15C (3GB RAM + 64GB),117,Entrée de gamme,Non,android,3,64,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y15s,94,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y16,111,Entrée de gamme,Non,android,3,32,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y16 (3GB RAM + 64GB),117,Entrée de gamme,Non,android,3,64,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y16 (4GB RAM + 64GB),139,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y19,222,Milieu de gamme,Non,android,4,128,helio,2.0,5000.0,6.53,60
+vivo,Vivo Y20G,155,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.51,60
+vivo,Vivo Y21 (2020),111,Entrée de gamme,Non,android,4,64,snapdragon,1.8,5000.0,6.5,60
+vivo,Vivo Y21 2021,150,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.51,60
+vivo,Vivo Y21e,139,Entrée de gamme,Non,android,3,64,snapdragon,2.4,5000.0,6.51,60
+vivo,Vivo Y21s,167,Entrée de gamme,Non,android,4,128,helio,2.0,5000.0,6.51,60
+vivo,Vivo Y21T,172,Entrée de gamme,Non,android,4,128,snapdragon,2.4,5000.0,6.51,90
+vivo,Vivo Y22,161,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.55,60
+vivo,Vivo Y22 (6GB RAM + 128GB),183,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.55,60
+vivo,Vivo Y22s,167,Entrée de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.55,90
+vivo,Vivo Y25,83,Entrée de gamme,Non,android,1,16,helio,1.3,1900.0,4.5,60
+vivo,Vivo Y3 (4GB RAM + 128GB),144,Entrée de gamme,Non,android,4,128,helio,2.3,5000.0,6.35,60
+vivo,Vivo Y33s,185,Entrée de gamme,Non,android,8,128,helio,2.0,5000.0,6.58,60
+vivo,Vivo Y33T,178,Entrée de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.58,90
+vivo,Vivo Y35,206,Milieu de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.58,90
+vivo,Vivo Y35 5G,156,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.51,60
+vivo,Vivo Y53s,172,Entrée de gamme,Non,android,8,128,helio,2.0,5000.0,6.58,60
+vivo,Vivo Y53t,133,Entrée de gamme,Oui,android,4,128,dimensity,2.0,6000.0,6.51,60
+vivo,Vivo Y55 4G,255,Milieu de gamme,Non,android,8,128,snapdragon,2.4,5000.0,6.44,120
+vivo,Vivo Y55 5G,233,Milieu de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.58,60
+vivo,Vivo Y55S,150,Entrée de gamme,Non,android,3,16,snapdragon,1.2,2730.0,5.2,60
+vivo,Vivo Y55s 2023,244,Milieu de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.58,60
+vivo,Vivo Y55s 5G,222,Milieu de gamme,Oui,android,8,128,dimensity,2.2,6000.0,6.58,60
+vivo,Vivo Y71,278,Milieu de gamme,Non,android,3,16,snapdragon,1.4,3360.0,6.0,60
+vivo,Vivo Y73 2021,222,Milieu de gamme,Non,android,8,128,helio,2.05,4000.0,6.44,60
+vivo,Vivo Y73T,189,Entrée de gamme,Oui,android,8,128,dimensity,2.0,6000.0,6.58,60
+vivo,Vivo Y75 4G,222,Milieu de gamme,Non,android,8,128,helio,2.05,4050.0,6.44,60
+vivo,Vivo Y75 5G,244,Milieu de gamme,Oui,android,8,128,dimensity,2.2,5000.0,6.58,60
+vivo,Vivo Y77 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.2,4500.0,6.64,120
+vivo,Vivo Y78 5G,278,Milieu de gamme,Oui,android,8,128,dimensity,3.0,4500.0,6.58,90
+vivo,Vivo Y91c,91,Entrée de gamme,Non,android,2,32,helio,2.0,4030.0,6.22,60
+vivo,Vivo Y93,200,Milieu de gamme,Non,android,4,32,helio,2.0,4030.0,6.2,60
+vivo,Vivo Y95,167,Entrée de gamme,Non,android,4,64,snapdragon,1.95,4030.0,6.22,60
+xiaomi,Xiaomi 11i 5G (8GB RAM + 128GB),278,Milieu de gamme,Oui,android,8,128,dimensity,2.5,5160.0,6.67,120
+xiaomi,Xiaomi 11i HyperCharge 5G,276,Milieu de gamme,Oui,android,6,128,dimensity,2.5,4500.0,6.67,120
+xiaomi,Xiaomi 11i HyperCharge 5G (8GB RAM + 128GB),300,Milieu de gamme,Oui,android,8,128,dimensity,2.5,4500.0,6.67,120
+xiaomi,Xiaomi 11T Pro 5G (12GB RAM + 256GB),433,Milieu de gamme,Oui,android,12,256,snapdragon,2.84,5000.0,6.67,120
+xiaomi,Xiaomi 12 Lite 5G,333,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4300.0,6.55,120
+xiaomi,Xiaomi 12 Pro 5G,567,Haut de gamme,Oui,android,8,256,snapdragon,3.0,4600.0,6.73,120
+xiaomi,Xiaomi 12 Pro 5G (12GB RAM + 256GB),576,Haut de gamme,Oui,android,12,256,snapdragon,3.0,4600.0,6.73,120
+xiaomi,Xiaomi 12 Ultra 5G,844,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4800.0,6.73,120
+xiaomi,Xiaomi 12S Ultra,778,Haut de gamme,Oui,android,8,256,snapdragon,3.2,4860.0,6.73,120
+xiaomi,Xiaomi 12T,544,Haut de gamme,Oui,android,8,128,dimensity,2.85,5000.0,6.67,120
+xiaomi,Xiaomi 12T Pro 5G,667,Haut de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.67,120
+xiaomi,Xiaomi 13 5G,522,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4500.0,6.36,120
+xiaomi,Xiaomi 13 Pro 5G,655,Haut de gamme,Oui,android,8,128,snapdragon,3.2,4820.0,6.73,120
+xiaomi,Xiaomi 13 Ultra 5G,800,Haut de gamme,Oui,android,12,256,snapdragon,3.2,5000.0,6.6,120
+xiaomi,Xiaomi 14,611,Haut de gamme,Oui,android,12,256,snapdragon,3.2,5000.0,6.43,120
+xiaomi,Xiaomi Civi 2,333,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4500.0,6.55,120
+xiaomi,Xiaomi Civi 3,367,Milieu de gamme,Oui,android,8,256,dimensity,3.1,5000.0,6.7,120
+xiaomi,Xiaomi Mi 10 5G (8GB RAM + 256GB),611,Haut de gamme,Oui,android,8,256,snapdragon,2.84,4780.0,6.67,90
+xiaomi,Xiaomi Mi 10T 5G,261,Milieu de gamme,Oui,android,6,128,snapdragon,2.84,5000.0,6.67,144
+xiaomi,Xiaomi Mi 10T Pro 5G,333,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,5000.0,6.67,144
+xiaomi,Xiaomi Mi 11 Lite (8GB RAM + 128GB),208,Milieu de gamme,Non,android,8,128,snapdragon,2.3,4250.0,6.55,90
+xiaomi,Xiaomi Mi 11 Lite NE 5G,243,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,4250.0,6.55,90
+xiaomi,Xiaomi Mi 11 Lite NE 5G (8GB RAM + 128GB),256,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,4250.0,6.55,90
+xiaomi,Xiaomi Mi 11i 5G,261,Milieu de gamme,Oui,android,6,128,dimensity,2.5,5160.0,6.67,120
+xiaomi,Xiaomi Mi 11T Pro 5G,389,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,5000.0,6.67,120
+xiaomi,Xiaomi Mi 11X,265,Milieu de gamme,Oui,android,6,128,snapdragon,3.2,4520.0,6.67,120
+xiaomi,Xiaomi Mi 11X 5G (8GB RAM + 128GB),289,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,4520.0,6.67,120
+xiaomi,Xiaomi Mi 11X Pro,344,Milieu de gamme,Oui,android,8,128,snapdragon,2.84,4520.0,6.67,120
+xiaomi,Xiaomi Mi 12 5G,478,Milieu de gamme,Oui,android,8,128,snapdragon,3.0,4500.0,6.28,120
+xiaomi,Xiaomi Mi Mix Alpha,2222,Haut de gamme,Oui,android,12,512,snapdragon,2.96,4050.0,7.92,60
+xiaomi,Xiaomi Mi Mix Fold,1222,Haut de gamme,Oui,android,12,256,snapdragon,2.84,5020.0,8.01,90
+xiaomi,Xiaomi Mix Fold 2 5G,1189,Haut de gamme,Oui,android,12,256,snapdragon,3.2,4500.0,8.02,120
+xiaomi,Xiaomi Poco F1,133,Entrée de gamme,Non,android,6,64,snapdragon,2.8,4000.0,6.18,60
+xiaomi,Xiaomi Poco F1 (6GB RAM + 128GB),144,Entrée de gamme,Non,android,6,128,snapdragon,2.8,4000.0,6.18,60
+xiaomi,Xiaomi Redmi 10,107,Entrée de gamme,Non,android,4,64,snapdragon,2.4,6000.0,6.7,60
+xiaomi,Xiaomi Redmi 10 (6GB RAM + 128GB),133,Entrée de gamme,Non,android,6,128,snapdragon,2.4,6000.0,6.7,60
+xiaomi,Xiaomi Redmi 10 Power,133,Entrée de gamme,Non,android,8,128,snapdragon,2.4,6000.0,6.7,60
+xiaomi,Xiaomi Redmi 10 Prime,138,Entrée de gamme,Non,android,4,64,helio,2.0,6000.0,6.5,90
+xiaomi,Xiaomi Redmi 10 Prime (6GB RAM + 128GB),144,Entrée de gamme,Non,android,6,128,helio,2.0,6000.0,6.5,90
+xiaomi,Xiaomi Redmi 10 Prime Plus 5G,155,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi 10A,83,Entrée de gamme,Non,android,3,32,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 10A (4GB RAM + 64GB),93,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 10A (6GB RAM + 128GB),121,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 10A Sport,111,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 10C,155,Entrée de gamme,Non,android,4,64,snapdragon,2.4,6000.0,6.7,60
+xiaomi,Xiaomi Redmi 10C (4GB RAM + 128GB),167,Entrée de gamme,Non,android,4,128,snapdragon,2.4,6000.0,6.7,60
+xiaomi,Xiaomi Redmi 11 Prime,129,Entrée de gamme,Non,android,4,64,helio,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi 11 Prime (6GB RAM + 128GB),153,Entrée de gamme,Non,android,6,128,helio,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi 11 Prime 5G,150,Entrée de gamme,Oui,android,4,64,dimensity,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi 11 Prime 5G (6GB RAM + 128GB),178,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi 13 Prime 5G,200,Milieu de gamme,Oui,android,6,128,snapdragon,2.0,5100.0,6.73,120
+xiaomi,Xiaomi Redmi 20X,122,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.43,90
+xiaomi,Xiaomi Redmi 8 (4GB RAM + 64GB),128,Entrée de gamme,Non,android,4,64,snapdragon,2.0,5000.0,6.22,60
+xiaomi,Xiaomi Redmi 9,100,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9 Activ,83,Entrée de gamme,Non,android,4,64,helio,2.3,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9 Activ (6GB RAM + 128GB),117,Entrée de gamme,Non,android,6,128,helio,2.3,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9 Power,128,Entrée de gamme,Non,android,4,64,snapdragon,2.0,6000.0,6.53,60
+xiaomi,Xiaomi Redmi 9A,78,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9A (6GB RAM + 128GB),122,Entrée de gamme,Non,android,6,128,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9A Sport,72,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9i (4GB RAM + 128GB),103,Entrée de gamme,Non,android,4,128,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi 9i Sport,83,Entrée de gamme,Non,android,4,64,helio,2.0,5000.0,6.53,60
+xiaomi,Xiaomi Redmi A1,69,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.52,60
+xiaomi,Xiaomi Redmi A1 Plus,81,Entrée de gamme,Non,android,2,32,helio,2.0,5000.0,6.52,60
+xiaomi,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),93,Entrée de gamme,Non,android,3,32,helio,2.0,5000.0,6.52,60
+xiaomi,Xiaomi Redmi K50 5G,311,Milieu de gamme,Oui,android,8,128,dimensity,2.85,5500.0,6.67,120
+xiaomi,Xiaomi Redmi K50 Ultra 5G,444,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.67,144
+xiaomi,Xiaomi Redmi K50i (8GB RAM + 256GB),289,Milieu de gamme,Oui,android,8,256,dimensity,2.85,5080.0,6.6,144
+xiaomi,Xiaomi Redmi K50i 5G,256,Milieu de gamme,Oui,android,6,128,dimensity,2.85,5080.0,6.6,144
+xiaomi,Xiaomi Redmi K60,333,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5500.0,6.67,120
+xiaomi,Xiaomi Redmi K60 Gaming Edition,611,Haut de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.73,120
+xiaomi,Xiaomi Redmi K60 Pro,433,Milieu de gamme,Oui,android,8,128,snapdragon,3.2,5000.0,6.67,120
+xiaomi,Xiaomi Redmi K60E,289,Milieu de gamme,Oui,android,8,128,dimensity,3.1,5500.0,6.67,120
+xiaomi,Xiaomi Redmi K60i,322,Milieu de gamme,Oui,android,8,128,dimensity,3.1,5080.0,6.67,120
+xiaomi,Xiaomi Redmi Note 10,155,Entrée de gamme,Non,android,4,64,snapdragon,2.2,5000.0,6.43,60
+xiaomi,Xiaomi Redmi Note 10 (6GB RAM + 128GB),183,Entrée de gamme,Non,android,6,128,snapdragon,2.2,5000.0,6.43,60
+xiaomi,Xiaomi Redmi Note 10 5G,139,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.5,90
+xiaomi,Xiaomi Redmi Note 10 Lite,111,Entrée de gamme,Non,android,4,64,snapdragon,2.3,5020.0,6.67,60
+xiaomi,Xiaomi Redmi Note 10 Lite (4GB RAM + 128GB),139,Entrée de gamme,Non,android,4,128,snapdragon,2.3,5020.0,6.67,60
+xiaomi,Xiaomi Redmi Note 10 Lite (6GB RAM + 128GB),133,Entrée de gamme,Non,android,6,128,snapdragon,2.3,5020.0,6.67,60
+xiaomi,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),200,Milieu de gamme,Non,android,6,128,snapdragon,2.3,5020.0,6.67,120
+xiaomi,Xiaomi Redmi Note 10 Pro 5G,189,Entrée de gamme,Oui,android,6,128,dimensity,2.6,5000.0,6.6,120
+xiaomi,Xiaomi Redmi Note 10 Pro Max,222,Milieu de gamme,Non,android,6,64,snapdragon,2.3,5020.0,6.67,120
+xiaomi,Xiaomi Redmi Note 10 Pro Max (6GB RAM + 128GB),222,Milieu de gamme,Non,android,6,128,snapdragon,2.3,5020.0,6.67,120
+xiaomi,Xiaomi Redmi Note 10S,122,Entrée de gamme,Non,android,6,64,helio,2.05,5000.0,6.43,60
+xiaomi,Xiaomi Redmi Note 10S (6GB RAM + 128GB),133,Entrée de gamme,Non,android,6,128,helio,2.05,5000.0,6.43,60
+xiaomi,Xiaomi Redmi Note 10S (8GB RAM + 128GB),156,Entrée de gamme,Non,android,8,128,helio,2.05,5000.0,6.43,60
+xiaomi,Xiaomi Redmi Note 10T 5G,144,Entrée de gamme,Oui,android,4,64,dimensity,2.2,5000.0,6.5,90
+xiaomi,Xiaomi Redmi Note 10T 5G (6GB RAM +128GB),156,Entrée de gamme,Oui,android,6,128,dimensity,2.2,5000.0,6.5,90
+xiaomi,Xiaomi Redmi Note 11,133,Entrée de gamme,Non,android,4,64,snapdragon,2.4,5000.0,6.43,90
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 128GB),159,Entrée de gamme,Non,android,6,128,snapdragon,2.4,5000.0,6.43,90
+xiaomi,Xiaomi Redmi Note 11 (6GB RAM + 64GB),135,Entrée de gamme,Non,android,6,64,snapdragon,2.4,5000.0,6.43,90
+xiaomi,Xiaomi Redmi Note 11 5G,167,Entrée de gamme,Oui,android,4,128,dimensity,2.4,5000.0,6.6,90
+xiaomi,Xiaomi Redmi Note 11 Pro 4G,200,Milieu de gamme,Non,android,6,128,helio,2.05,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 11 Pro 5G,200,Milieu de gamme,Oui,android,6,64,snapdragon,2.2,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 11 Pro Max 5G,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.4,5200.0,6.67,120
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G,222,Milieu de gamme,Oui,android,6,128,snapdragon,2.2,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 128GB),252,Milieu de gamme,Oui,android,8,128,snapdragon,2.2,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 11 Pro Plus 5G (8GB RAM + 256GB),256,Milieu de gamme,Oui,android,8,256,snapdragon,2.2,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 11E 5G,155,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi Note 11R,144,Entrée de gamme,Oui,android,4,128,dimensity,2.2,5000.0,6.58,90
+xiaomi,Xiaomi Redmi Note 11S,162,Entrée de gamme,Non,android,6,64,helio,2.05,5000.0,6.43,90
+xiaomi,Xiaomi Redmi Note 11S (6GB RAM + 128GB),172,Entrée de gamme,Non,android,6,128,helio,2.05,5000.0,6.43,90
+xiaomi,Xiaomi Redmi Note 11S (8GB RAM + 128GB),176,Entrée de gamme,Non,android,8,128,helio,2.05,5000.0,6.43,90
+xiaomi,Xiaomi Redmi Note 11SE,133,Entrée de gamme,Non,android,6,64,helio,2.05,5000.0,6.43,60
+xiaomi,Xiaomi Redmi Note 11T 5G,189,Entrée de gamme,Oui,android,6,64,dimensity,2.4,5000.0,6.6,90
+xiaomi,Xiaomi Redmi Note 11T 5G (6GB RAM + 128GB),189,Entrée de gamme,Oui,android,6,128,dimensity,2.4,5000.0,6.6,90
+xiaomi,Xiaomi Redmi Note 11T 5G (8GB RAM + 128GB),206,Milieu de gamme,Oui,android,8,128,dimensity,2.4,5000.0,6.6,90
+xiaomi,Xiaomi Redmi Note 11T Pro 5G,222,Milieu de gamme,Oui,android,6,128,dimensity,2.85,5080.0,6.6,144
+xiaomi,Xiaomi Redmi Note 12,198,Entrée de gamme,Oui,android,4,128,snapdragon,2.0,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 (6GB RAM + 128GB),222,Milieu de gamme,Oui,android,6,128,snapdragon,2.0,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 4G,156,Entrée de gamme,Non,android,4,64,helio,2.2,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Discovery Edition,300,Milieu de gamme,Oui,android,8,256,dimensity,2.6,4300.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Explorer,278,Milieu de gamme,Oui,android,8,256,dimensity,2.6,4300.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 128GB),300,Milieu de gamme,Oui,android,8,128,dimensity,2.6,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro (8GB RAM + 256GB),311,Milieu de gamme,Oui,android,8,256,dimensity,2.6,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro 4G,167,Entrée de gamme,Non,android,6,128,snapdragon,2.3,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro 5G,275,Milieu de gamme,Oui,android,6,128,dimensity,2.6,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro Max 5G,367,Milieu de gamme,Oui,android,6,128,snapdragon,2.36,5200.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro Plus,333,Milieu de gamme,Oui,android,8,256,dimensity,2.6,4980.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),367,Milieu de gamme,Oui,android,12,256,dimensity,2.6,4980.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Pro Plus (6GB RAM + 128GB),300,Milieu de gamme,Oui,android,6,128,dimensity,2.6,4980.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12 Turbo,222,Milieu de gamme,Oui,android,8,128,snapdragon,2.4,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 12T 5G,178,Entrée de gamme,Oui,android,6,64,dimensity,2.0,5000.0,6.52,90
+xiaomi,Xiaomi Redmi Note 13 Pro 5G,200,Milieu de gamme,Oui,android,6,128,dimensity,2.0,5000.0,6.67,120
+xiaomi,Xiaomi Redmi Note 13 Pro Max 5G,228,Milieu de gamme,Oui,android,6,128,snapdragon,2.36,5200.0,6.67,120
+xiaomi,Xiaomi Redmi Note 4,114,Entrée de gamme,Non,android,4,64,snapdragon,2.0,4100.0,5.5,60
+xiaomi,Xiaomi Redmi Note 8 2021,111,Entrée de gamme,Non,android,4,64,helio,2.0,4000.0,6.3,60
+xiaomi,Xiaomi Redmi Note 8 Pro,189,Entrée de gamme,Non,android,6,64,helio,2.05,4500.0,6.53,60
+xiaomi,Xiaomi Redmi Note 9,133,Entrée de gamme,Non,android,4,64,helio,2.0,5020.0,6.53,60
+xiaomi,Xiaomi Redmi Note 9 Pro,156,Entrée de gamme,Non,android,4,64,snapdragon,2.3,5020.0,6.67,60
+xiaomi,Xiaomi Redmi Note 9 Pro (4GB RAM + 128GB),160,Entrée de gamme,Non,android,4,128,snapdragon,2.3,5020.0,6.67,60
+xiaomi,Xiaomi Redmi Note 9 Pro Max,183,Entrée de gamme,Non,android,6,64,snapdragon,2.3,5020.0,6.67,60
+autre,ZTE Axon 30S,222,Milieu de gamme,Oui,android,6,128,snapdragon,3.2,4200.0,6.9,120
+autre,ZTE Axon 40 Ultra 5G,689,Haut de gamme,Oui,android,8,128,snapdragon,3.0,5000.0,6.8,120
