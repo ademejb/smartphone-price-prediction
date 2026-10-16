@@ -119,3 +119,5 @@ smartphone-price-prediction/
 ## Tools
 
 Python 3.12 · Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn · Power BI Desktop · VS Code
+
+Project carried out in collaboration by Adem Ejebli ([@ademejb](https://github.com/ademejb)) and Ilian Ikdoumi ([@ikdoumi-Ilian](https://github.com/Ikdoumi-Ilian)).
